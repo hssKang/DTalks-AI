@@ -1,0 +1,15 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  # Prometheus 자체 모니터링
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # DTalks 챗봇 애플리케이션 모니터링
+  - job_name: 'dtalks-chatbot'
+    static_configs:
+      - targets: ['host.docker.internal:8001']  # 챗봇 메트릭 포트
+    scrape_interval: 5s
+    metrics_path: '/metrics'

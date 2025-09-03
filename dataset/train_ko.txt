@@ -1,0 +1,903 @@
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__org_chart 김철수 대리는 어느 부서인가요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__org_chart 마케팅팀 팀장님 연락처 알려주세요
+__label__form_request 비품 신청 양식이 필요해요
+__label__smalltalk 오늘 날씨 좋네요
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__org_chart 기획팀에 누가 있나요?
+__label__org_chart 영업부 직원 명단 알 수 있나요?
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__org_chart 인사팀 조직도 보고 싶어요
+__label__form_request 재직증명서 신청은 어떻게 하나요?
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__org_chart 회사 전체 조직도 어디서 봐요?
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__form_request 교육 이수 확인서 양식 있나요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__internal_info 보안교육은 매년 필수인가요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__smalltalk 오늘 날씨 좋네요
+__label__smalltalk 힘들죠 요즘?
+__label__form_request 프로젝트 제안서 템플릿 있나요?
+__label__smalltalk 오늘 날씨 좋네요
+__label__form_request 재택근무 신청 양식 있나요?
+__label__org_chart 개발팀 구성원이 궁금해요
+__label__smalltalk 야근각이에요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__org_chart 본부장님은 누구시죠?
+__label__org_chart IT팀 담당자 연락처 필요해요
+__label__org_chart 신입사원들 소속 부서 알고 싶어요
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__smalltalk 야근각이에요
+__label__org_chart 각 부서별 인원수 알 수 있나요?
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__internal_info 이상훈 과장은 어디 팀이죠?
+__label__internal_info 홍보팀 몇 명이에요?
+__label__smalltalk 커피 한잔 어때요?
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__internal_info 보안교육은 매년 필수인가요?
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__form_request 비품 신청 양식이 필요해요
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__form_request 재택근무 신청 양식 있나요?
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__internal_info 근무복장 규정이 있나요?
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__org_chart 디자인팀 누가 있는지 알고 싶어요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__org_chart 영업팀 팀장님 누구세요?
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__org_chart QA팀 소속 직원 명단 주세요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__org_chart 회계팀 조직 구조 알려주세요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__org_chart 부서장들 명단이 필요해요
+__label__smalltalk 커피 한잔 어때요?
+__label__org_chart 경영진 조직도 볼 수 있나요?
+__label__org_chart 신사업팀에는 누가 있나요?
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__smalltalk 오늘 날씨 좋네요
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__form_request 재직증명서 신청은 어떻게 하나요?
+__label__form_request 비품 신청 양식이 필요해요
+__label__org_chart 전략기획실 담당자는 누구죠?
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__smalltalk 커피 한잔 어때요?
+__label__form_request 연차 신청서 양식 주세요
+__label__org_chart 사업부별 조직 구성 알고 싶어요
+__label__smalltalk 월요일 진짜 싫어요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__form_request 연차 신청서 양식 주세요
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info 홍보팀 몇 명이에요?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__smalltalk 오늘 회의 많아서 피곤해요
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__org_chart 관리부서 조직도 필요해요
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__smalltalk 오늘 회의 많아서 피곤해요
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 야근각이에요
+__label__internal_info 근무복장 규정이 있나요?
+__label__org_chart 마케팅팀 직급별 인원 알려주세요
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__org_chart 조직도에서 누가 우리 팀장이죠?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__smalltalk 오늘 날씨 좋네요
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__smalltalk 오늘 회의 많아서 피곤해요
+__label__internal_info 사내 카페는 몇 시까지 운영되나요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__internal_info 조직도 어디서 볼 수 있죠?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__org_chart 회사 조직 구조 설명해주세요
+__label__org_chart 부서별 업무 분장 알고 싶어요
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__smalltalk 힘들죠 요즘?
+__label__internal_info 보안교육은 매년 필수인가요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__org_chart 임원진 명단 확인하고 싶어요
+__label__org_chart 신입사원 배치 부서 알려주세요
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__org_chart R&D팀 구성원 누구누구인가요?
+__label__internal_info 이상훈 과장은 어디 팀이죠?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 힘들죠 요즘?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__org_chart 기업부설연구소 조직도 주세요
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__org_chart 각 팀 팀장님들 연락처 필요해요
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__form_request 재택근무 신청 양식 있나요?
+__label__org_chart 회사 전체 직원 수 알고 싶어요
+__label__internal_info 조직도 어디서 볼 수 있죠?
+__label__smalltalk 오늘 날씨 좋네요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__internal_info 근무복장 규정이 있나요?
+__label__smalltalk 월요일 진짜 싫어요
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 점심시간만 기다리고 있어요
+__label__internal_info 보안교육은 매년 필수인가요?
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__internal_info 이상훈 과장은 어디 팀이죠?
+__label__org_chart 부서 간 업무 연계도 보고 싶어요
+__label__form_request 재직증명서 신청은 어떻게 하나요?
+__label__internal_info 사내 카페는 몇 시까지 운영되나요?
+__label__org_chart 고객지원팀 팀원 연락처 주세요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__internal_info 이상훈 과장은 어디 팀이죠?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__internal_info 조직도 어디서 볼 수 있죠?
+__label__smalltalk 야근각이에요
+__label__form_request 재택근무 신청 양식 있나요?
+__label__form_request 비품 신청 양식이 필요해요
+__label__smalltalk 야근각이에요
+__label__smalltalk 힘들죠 요즘?
+__label__smalltalk 야근각이에요
+__label__smalltalk 커피 한잔 어때요?
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__org_chart 상품기획팀 누가 담당자인가요?
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__smalltalk 커피 한잔 어때요?
+__label__org_chart 법무팀 변호사님 연락처 알려주세요
+__label__org_chart 감사팀 조직 구성 궁금해요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__internal_info 홍보팀 몇 명이에요?
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__smalltalk 커피 한잔 어때요?
+__label__form_request 교육 이수 확인서 양식 있나요?
+__label__smalltalk 오늘 날씨 좋네요
+__label__internal_info 사내 카페는 몇 시까지 운영되나요?
+__label__org_chart 구매팀 담당자 확인하고 싶어요
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__org_chart 물류팀 직원 명단 필요해요
+__label__org_chart 제품개발팀 조직도 보여주세요
+__label__smalltalk 힘들죠 요즘?
+__label__org_chart 계열사 조직 구조 알고 싶어요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__internal_info 신입사원 멘토는 누구예요?
+__label__internal_info 근무복장 규정이 있나요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info 사내 시스템 점검 일정은 어디서 봐요?
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__org_chart 부서별 예산 담당자 누구인가요?
+__label__smalltalk 힘들죠 요즘?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__internal_info 근무복장 규정이 있나요?
+__label__internal_info 사내 카페는 몇 시까지 운영되나요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__form_request 연차 신청서 양식 주세요
+__label__form_request 연차 신청서 양식 주세요
+__label__internal_info 홍보팀 몇 명이에요?
+__label__org_chart 지사별 조직도 확인하고 싶어요
+__label__internal_info 신입사원 멘토는 누구예요?
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__form_request 프로젝트 제안서 템플릿 있나요?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__form_request 재택근무 신청 양식 있나요?
+__label__form_request 비품 신청 양식이 필요해요
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 월요일 진짜 싫어요
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__form_request 교육 이수 확인서 양식 있나요?
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info 프린터 고장났을 땐 어떻게 해야 하죠?
+__label__internal_info 홍보팀 몇 명이에요?
+__label__org_chart 신규 프로젝트팀 구성원 알려주세요
+__label__org_chart 각 부서 과장급 이상 명단 주세요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__internal_info 사내 카페는 몇 시까지 운영되나요?
+__label__form_request 재직증명서 신청은 어떻게 하나요?
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 점심시간만 기다리고 있어요
+__label__smalltalk 회사 분위기 좋은 것 같아요
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__internal_info 보안교육은 매년 필수인가요?
+__label__smalltalk 월요일 진짜 싫어요
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__internal_info 조직도 어디서 볼 수 있죠?
+__label__smalltalk 힘들죠 요즘?
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__org_chart 협력업체 담당 부서는 어디인가요?
+__label__form_request 비품 신청 양식이 필요해요
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__smalltalk 오늘 날씨 좋네요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__org_chart 해외법인 조직도 볼 수 있나요?
+__label__internal_info 조직도 어디서 볼 수 있죠?
+__label__form_request 프로젝트 제안서 템플릿 있나요?
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 이번 주말엔 푹 쉬고 싶어요
+__label__internal_info 기획팀 팀장 이름 뭐에요?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__org_chart TF팀 구성원 확인하고 싶어요
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__org_chart 부사장님들 담당 업무 알려주세요
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__smalltalk 점심시간만 기다리고 있어요
+__label__form_request 재직증명서 신청은 어떻게 하나요?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__internal_info 신입사원 멘토는 누구예요?
+__label__org_chart 품질관리팀 조직 구성 알고 싶어요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__org_chart 보안팀 담당자 연락처 필요해요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__org_chart 컨설팅팀 조직도 확인하고 싶어요
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__smalltalk 출근길에 지하철 엄청 막혔어요
+__label__internal_info 이상훈 과장은 어디 팀이죠?
+__label__internal_info 홍보팀 몇 명이에요?
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__form_request 프로젝트 제안서 템플릿 있나요?
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__internal_info 총무팀 연락처 좀 주세요
+__label__internal_info 출입카드 재발급은 어디서 해요?
+__label__org_chart 기업문화팀 누가 담당하나요?
+__label__internal_info 복지포인트는 언제 지급되나요?
+__label__org_chart 고객서비스팀 조직 구조 알려주세요
+__label__smalltalk 오늘 회의 많아서 피곤해요
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__smalltalk 점심시간만 기다리고 있어요
+__label__org_chart 수출팀 직원 연락처 알고 싶어요
+__label__org_chart 투자개발팀 팀장님 누구세요?
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__form_request 교육 이수 확인서 양식 있나요?
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__org_chart 신사업개발팀 구성 알려주세요
+__label__form_request 비품 신청 양식이 필요해요
+__label__form_request 법인카드 신청서 양식 공유 부탁드려요
+__label__internal_info OOO 대리님 오늘 재택이에요?
+__label__internal_info 근무복장 규정이 있나요?
+__label__smalltalk 커피 한잔 어때요?
+__label__form_request 교육 이수 확인서 양식 있나요?
+__label__org_chart 특허팀 변리사님은 누구인가요?
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__org_chart 글로벌사업부 조직도 주세요
+__label__form_request 연차 신청서 양식 주세요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__org_chart 사업전략팀 담당자 연락처 주세요
+__label__org_chart 예산기획팀 누가 있는지 알고 싶어요
+__label__form_request 사내 교육 신청서 양식 어디 있나요?
+__label__org_chart 정보보안팀 조직 구성 궁금해요
+__label__internal_info 업무 중 VPN 끊기면 어떻게 하나요?
+__label__smalltalk 월요일 진짜 싫어요
+__label__form_request 출장비 정산 양식 어디 있나요?
+__label__internal_info 사내 와이파이 비밀번호 알려주세요
+__label__internal_info 인사팀 내선번호 알려주세요
+__label__smalltalk 월요일 진짜 싫어요
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__internal_info 홍보팀 몇 명이에요?
+__label__internal_info 사내 식당 메뉴는 어디서 보나요?
+__label__internal_info UX팀 자리 배치는 어떻게 되나요?
+__label__smalltalk 월요일 진짜 싫어요
+__label__form_request 프로젝트 제안서 템플릿 있나요?
+__label__form_request 연차 신청서 양식 주세요
+__label__smalltalk 점심 뭐 먹을까요
+__label__smalltalk 오늘 점심 메뉴 뭐가 좋을까
+__label__smalltalk 배고파서 뭐 먹을지 고민이에요
+__label__smalltalk 점심시간이 기다려져요
+__label__smalltalk 뭐 먹고 싶어요
+__label__smalltalk 맛있는 거 먹고 싶다
+__label__smalltalk 점심 추천해주세요
+__label__smalltalk 커피 한잔 어때요?
+__label__internal_info 컴퓨터가 안 켜져요
+__label__internal_info 시스템이 먹통이에요
+__label__internal_info 장비가 말을 안 들어요
+__label__internal_info 인터넷이 안 돼요
+__label__internal_info 와이파이가 끊어져요
+__label__smalltalk 오늘 바빠요
+__label__smalltalk 일이 너무 많아요
+__label__smalltalk 할 일이 산더미예요
+__label__smalltalk 스케줄이 타이트해요
+__label__smalltalk 오늘 하루 종일 바쁠 것 같아요
+__label__smalltalk 일정이 많아서 힘들어요
+__label__smalltalk 업무가 몰려있어요
+__label__smalltalk 미팅이 연달아 있어요
+__label__smalltalk 오늘 스케줄 빡빡하네요
+__label__smalltalk 시간이 부족해요
+__label__smalltalk 오늘 너무 바빠요
+__label__smalltalk 요즘 너무 바빠서 죽겠어요
+__label__smalltalk 일이 끝이 안 보이네요
+__label__smalltalk 야근하기 싫어요
+__label__smalltalk 피곤해서 죽겠어요
+__label__smalltalk 집에 가고 싶어요
+__label__smalltalk 이번 주 진짜 힘드네요
+__label__smalltalk 업무량이 너무 많아요
+__label__smalltalk 한숨만 나와요
+__label__org_chart 회사 조직도 어디서 확인하나요
+__label__org_chart 부서별 담당 업무 알고 싶어요
+__label__org_chart 팀장님들 연락처 리스트 주세요
+__label__org_chart 신입사원들 어느 부서에 배치됐나요
+__label__org_chart 조직도에서 내 상사가 누구죠
+__label__org_chart 회사 전체 직원 명단 볼 수 있나요
+__label__org_chart 부서 이동 후 조직도 업데이트됐나요
+__label__org_chart 계열사 포함 전체 조직도 필요해요
+__label__org_chart 임직원 연락처 통합 명단 있나요
+__label__internal_info 프린터가 고장났어요
+__label__internal_info 복사기가 안 돼요
+__label__internal_info 프린터 문제 있어요
+__label__internal_info 출력이 안 돼요
+__label__internal_info 인쇄 오류가 나와요
+__label__org_chart 각 팀별 업무 분장 확인하고 싶어요
+__label__org_chart 신규 채용자들 소속 부서 알려주세요
+__label__org_chart 조직 개편 후 변경된 구조 보여주세요
+__label__org_chart 본부별 조직도 따로 볼 수 있나요
+__label__org_chart 팀별 인원수와 구성 알고 싶어요
+__label__org_chart 상급자 승인라인 확인하고 싶어요
+__label__org_chart 부서간 협업 구조 알려주세요
+__label__org_chart 직급별 조직도 분류해서 보여주세요
+__label__internal_info 급여일 언제인가요
+__label__internal_info 월급날이 언제예요
+__label__internal_info 이번 달 급여일은 언제죠
+__label__internal_info 급여 지급일 알려주세요
+__label__internal_info 이번 달 급여 언제 나와요
+__label__internal_info 봉급일이 언제죠
+__label__internal_info 월급 나오는 날짜가 언제에요
+__label__internal_info 연차 몇 일 남았나요
+__label__internal_info 연차 반차로도 사용 가능한가요
+__label__internal_info 야근 수당은 자동 계산되나요
+__label__internal_info 복지포인트 잔액이 궁금해요
+__label__internal_info 출산휴가 중 급여 지급되나요
+__label__internal_info 급여 명세서 어디서 확인해요
+__label__internal_info 식대 정산은 어떻게 하나요
+__label__internal_info 출장비는 카드로 결제해도 되나요
+__label__internal_info 경조금 신청은 어디서 하나요
+__label__form_request 연차 신청서 양식 주세요
+__label__form_request 출산휴가 신청서 양식 보내주세요
+__label__internal_info 회사 이메일 비밀번호 재설정은 어떻게 하나요?
+__label__internal_info IT 지원팀 연락처는 어디서 확인하나요?
+__label__internal_info 분실한 사무용품 신고 절차가 궁금해요.
+__label__internal_info 재택근무 포털은 어디서 접속하나요?
+__label__internal_info 회사 모바일 앱은 어디서 다운로드하나요?
+__label__internal_info 인사 시스템에서 개인정보 수정은 어떻게 하나요?
+__label__internal_info 야근 식대 정책이 어떻게 되나요?
+__label__internal_info 새 의자 신청은 어디서 하나요?
+__label__internal_info 사무실 시설 관련 피드백은 어디에 제출하나요?
+__label__internal_info 연말 보너스 내역은 어디서 확인할 수 있나요?
+__label__org_chart 재무팀 담당자는 누구인가요?
+__label__org_chart 내부 감사는 어느 팀에서 담당하나요?
+__label__org_chart IT 인프라 부서 관리자는 누구죠?
+__label__org_chart 연구개발팀 조직도 보여주세요.
+__label__org_chart 법무팀 팀장님은 누구세요?
+__label__org_chart 마케팅 캠페인 담당 부서는 어디인가요?
+__label__org_chart 인사팀 대리님은 누구인가요?
+__label__org_chart 회사 내 팀장님 명단 알려주세요.
+__label__org_chart 고객서비스 부서 책임자는 누구인가요?
+__label__org_chart 제품 개발 담당 팀은 어디인가요?
+__label__form_request 비용 정산 신청서가 필요해요.
+__label__form_request 주차증 신청은 어떻게 하나요?
+__label__form_request 출장 승인서 양식 보내주세요.
+__label__form_request IT 장비 신청서 양식은 어디 있나요?
+__label__form_request 원격접속 요청서 양식이 필요해요.
+__label__form_request 교육 신청서 제출 방법 알려주세요.
+__label__form_request 사무용품 주문서 양식 주세요.
+__label__form_request 휴가 취소 신청서 다운로드는 어디서 하나요?
+__label__form_request 경비 보고서 템플릿 보내주세요.
+__label__form_request 신규 사원증 신청은 어떻게 하나요?
+__label__smalltalk 회사 소풍이 기대돼요.
+__label__smalltalk 휴게실 커피가 오늘 정말 맛있네요.
+__label__smalltalk 회의가 너무 길지 않았으면 좋겠어요.
+__label__smalltalk 팀빌딩 행사 기대돼요.
+__label__smalltalk 오후 사무실이 조용하네요.
+__label__smalltalk 동료들과 함께 일해서 좋아요.
+__label__smalltalk 오랜만에 모두 직접 만나니 반갑네요.
+__label__smalltalk 퇴근 후 요가 수업 들을 예정이에요.
+__label__smalltalk 새로 들어온 사무실 식물이 상쾌해 보여요.
+__label__smalltalk 드디어 금요일이라서 기분 좋아요!
+__label__internal_info 공지사항은 어디서 확인하나요?
+__label__internal_info 이번 달 회식 일정 알려주세요.
+__label__internal_info 건강검진 신청은 어떻게 하나요?
+__label__internal_info 사내 동호회 목록 좀 볼 수 있을까요?
+__label__internal_info 주차 등록은 어떻게 해야 하죠?
+__label__internal_info 이번 주 사내 식당 특식 메뉴가 뭔가요?
+__label__internal_info 업무용 차량 예약은 어디서 하나요?
+__label__internal_info 법인폰 지급 기준이 궁금해요.
+__label__internal_info 휴가 규정 좀 알려주세요.
+__label__internal_info 전사 워크샵은 언제인가요?
+__label__internal_info 명함 제작 신청은 어디서 해요?
+__label__internal_info 사내 카페 쿠폰 사용 방법 알려주세요.
+__label__internal_info 개인정보 변경 신청은 어디서 하나요?
+__label__internal_info 경조사 지원 기준이 어떻게 되나요?
+__label__internal_info 사무실 온도가 너무 추워요.
+__label__internal_info 사내 도서관 이용 방법 알려주세요.
+__label__internal_info 회사 복지혜택에 대해 궁금해요.
+__label__internal_info 급여 명세서는 어디서 확인하나요?
+__label__internal_info 회사 대출 제도가 있나요?
+__label__internal_info 회사 전화번호부 볼 수 있나요?
+__label__internal_info 전산팀 내선번호 알려주세요.
+__label__internal_info 회사 근처 맛집 추천해주세요.
+__label__internal_info 분기별 성과평가는 언제 진행되나요?
+__label__internal_info 사내 PC 교체 주기가 어떻게 되나요?
+__label__internal_info 회사 보안 규정이 궁금해요.
+__label__internal_info 재택근무 규정 좀 알려주세요.
+__label__internal_info 사무용품은 어떻게 신청하나요?
+__label__internal_info 비상시 대피 경로는 어디에 있나요?
+__label__internal_info 회사 건물 출입 카드는 어떻게 받나요?
+__label__internal_info 자율좌석제 운영 방식 알려주세요.
+__label__internal_info 복지카드 재발급은 어디서 하나요?
+__label__internal_info 연차 사용 촉진 제도가 있나요?
+__label__internal_info 건강검진 대상자 명단 확인하고 싶어요.
+__label__internal_info 이번 달 생일자 명단 알려주세요.
+__label__internal_info 사내 강당 예약은 어떻게 하나요?
+__label__internal_info 회사 이메일 용량이 부족해요.
+__label__internal_info 휴가계획서 제출은 언제까지인가요?
+__label__internal_info 주차장 이용 안내 좀 해주세요.
+__label__internal_info 사내 게시판에 글 올리는 방법 알려주세요.
+__label__internal_info 비품 파손 시 처리 절차는 어떻게 되나요?
+__label__internal_info 육아휴직 급여는 어떻게 신청하나요?
+__label__internal_info 유료 소프트웨어 사용 신청은 어디서 하나요?
+__label__internal_info 회사 동아리 지원금은 어떻게 신청하나요?
+__label__internal_info 사무실 자리 이동하고 싶어요.
+__label__internal_info 명절 상여금 지급 시기 알려주세요.
+__label__internal_info 사내 식당 식권은 어디서 받나요?
+__label__internal_info 회사 내선번호 변경하고 싶어요.
+__label__internal_info 화장실 휴지 없어요.
+__label__internal_info 탕비실에 커피가 떨어졌어요.
+__label__internal_info 회사 법인차 이용 신청은 어떻게 하나요?
+__label__org_chart 기획부서에는 어떤 팀들이 있나요?
+__label__org_chart 개발팀 팀원들 직급은 어떻게 되나요?
+__label__org_chart 신규 입사자들 소속 부서 알려주세요.
+__label__org_chart 마케팅팀 조직 구성이 궁금해요.
+__label__org_chart 우리 팀 팀장님 연락처 알려주세요.
+__label__org_chart 회사 전체 직원 명단 볼 수 있나요?
+__label__org_chart 각 부서별 업무 담당자 리스트 주세요.
+__label__org_chart 팀 내 업무 분장은 어떻게 되어 있나요?
+__label__org_chart 본부장님 산하에 어떤 부서가 있나요?
+__label__org_chart 회계팀 누가 예산 관리 담당자인가요?
+__label__org_chart 해외영업팀 담당자 이름 알려주세요.
+__label__org_chart 신규 프로젝트 TF팀 구성원은 누구인가요?
+__label__org_chart 인사팀에 누가 근무하고 있나요?
+__label__org_chart 기획팀 팀원들 리스트 주세요.
+__label__org_chart 디자인팀은 어떤 업무를 하나요?
+__label__org_chart 영업본부 팀장님들 연락처 필요해요.
+__label__org_chart 고객지원팀 팀원들 명단 부탁드립니다.
+__label__org_chart 신사업팀은 어디에 있나요?
+__label__org_chart QA팀 담당자 연락처 알려주세요.
+__label__org_chart 각 부서별 인원수 리스트 볼 수 있나요?
+__label__org_chart 총무팀은 어떤 업무를 맡고 있나요?
+__label__org_chart 홍보팀 담당자 연락처 알려주세요.
+__label__org_chart 부서 간 협업 시 누구에게 연락해야 하나요?
+__label__org_chart 법무팀 팀원들 직급 알려주세요.
+__label__org_chart 임원진 조직도 볼 수 있나요?
+__label__org_chart 회사 구조가 어떻게 되나요?
+__label__org_chart 각 본부별 담당 임원 알려주세요.
+__label__org_chart 팀장님들 연락처 목록이 필요해요.
+__label__org_chart 조직도 업데이트된 버전 볼 수 있나요?
+__label__org_chart 기획팀장님 이름 뭐에요?
+__label__org_chart 우리 부서에 새로운 직원이 왔나요?
+__label__org_chart 재무팀 담당자 연락처 알려주세요.
+__label__org_chart 경영지원본부 소속 부서들은 어디인가요?
+__label__org_chart 각 부서별 업무 분장표가 필요해요.
+__label__org_chart 회사 전체 조직도를 보고 싶어요.
+__label__org_chart 팀원들 개인별 업무는 어떻게 되나요?
+__label__org_chart 개발팀은 몇 명으로 구성되어 있나요?
+__label__org_chart 이사님들 명단이 필요해요.
+__label__org_chart 신규 사업팀 팀원 명단 주세요.
+__label__org_chart 경리팀 담당자는 누구인가요?
+__label__org_chart 디자인팀 팀장님 누구세요?
+__label__org_chart 연구개발팀 조직도 보여주세요.
+__label__org_chart 생산팀 직원은 몇 명인가요?
+__label__org_chart 인사고과 담당자는 누구인가요?
+__label__org_chart 기술지원팀 연락처 알려주세요.
+__label__org_chart 법률 자문은 어느 부서에서 하나요?
+__label__org_chart IT팀 팀원들 연락처 좀 주세요.
+__label__org_chart 자재팀 담당자 이름이 궁금해요.
+__label__org_chart 홍보팀 팀장님 누구신가요?
+__label__org_chart 전략기획팀 팀원 명단 주세요.
+__label__form_request 휴가 신청서 양식 보내주세요.
+__label__form_request 연차 사용 신청서 양식 주세요.
+__label__form_request 출장비 정산 서류 양식 어디 있나요?
+__label__form_request 재직증명서 발급 신청은 어떻게 하나요?
+__label__form_request 명함 제작 신청 양식 주세요.
+__label__form_request 법인카드 사용 신청서 양식 필요해요.
+__label__form_request 경비 처리 보고서 양식 보내주세요.
+__label__form_request 사무용품 신청서 양식 어디 있나요?
+__label__form_request 교육 이수 확인증 발급 양식 주세요.
+__label__form_request 복지포인트 사용 신청서 양식 필요해요.
+__label__form_request 증명서 발급 신청서 양식 좀 보내주세요.
+__label__form_request 퇴직금 정산 신청 양식 주세요.
+__label__form_request 사내 교육 신청서 양식 어디서 받아요?
+__label__form_request 프로젝트 제안서 템플릿 보내주세요.
+__label__form_request 재택근무 신청서 양식 필요해요.
+__label__form_request 연말정산 서류 양식 알려주세요.
+__label__form_request 출산휴가 신청서 양식 좀 주세요.
+__label__form_request 병가 신청 양식 어디 있나요?
+__label__form_request 사내 포상 신청서 양식 필요해요.
+__label__form_request 회사 공문 양식 어디서 받나요?
+__label__form_request 원격 근무 신청서 양식 주세요.
+__label__form_request 경조사 지원 신청서 양식 어디 있나요?
+__label__form_request 차량 운행 일지 양식 주세요.
+__label__form_request 신규 직원 사원증 발급 신청 양식 필요해요.
+__label__form_request 출장 보고서 양식 좀 보내주세요.
+__label__form_request 사내 동호회 지원금 신청 양식 어디 있나요?
+__label__form_request 휴직 신청서 양식 주세요.
+__label__form_request 신제품 개발 계획서 템플릿 필요해요.
+__label__form_request 법인카드 사용 내역 보고서 양식 어디서 받아요?
+__label__form_request 보안 서약서 양식 좀 보내주세요.
+__label__form_request 채용 관련 서류 양식 필요해요.
+__label__form_request 주차 등록 신청서 양식 어디 있나요?
+__label__form_request 서류 제출 확인서 양식 주세요.
+__label__form_request 장비 대여 신청서 양식 필요해요.
+__label__form_request 사내 전산망 접속 신청서 양식 어디 있나요?
+__label__form_request 업무 자료 공유 동의서 양식 주세요.
+__label__form_request 개인정보 수집 동의서 양식 필요해요.
+__label__form_request 팀 회식 경비 신청서 양식 어디 있나요?
+__label__form_request 신규 거래처 등록 신청서 양식 주세요.
+__label__form_request 자산 관리 신청서 양식 필요해요.
+__label__form_request 증명사진 제출 양식 어디 있나요?
+__label__form_request 신입사원 온보딩 체크리스트 양식 주세요.
+__label__form_request 계약서 템플릿 좀 보내주세요.
+__label__form_request 외부 미팅 신청서 양식 어디 있나요?
+__label__form_request 부서 이동 신청서 양식 주세요.
+__label__form_request 퇴사 신청서 양식 필요해요.
+__label__form_request 급여 계좌 변경 신청서 양식 어디서 받아요?
+__label__form_request 명함 제작 신청서 양식 좀 주세요.
+__label__form_request 복지포인트 사용 신청서 양식 보내주세요.
+__label__form_request 연차 사용 신청서 양식 필요해요.
+__label__smalltalk 오늘 점심 뭐 먹을까요?
+__label__smalltalk 요즘 날씨가 너무 좋네요.
+__label__smalltalk 어제 야근해서 피곤해요.
+__label__smalltalk 주말에 뭐 하실 예정이세요?
+__label__smalltalk 월요일 아침은 늘 힘드네요.
+__label__smalltalk 커피 한 잔 하고 싶다.
+__label__smalltalk 점심시간이 빨리 왔으면 좋겠어요.
+__label__smalltalk 이번 주 회의가 너무 많네요.
+__label__smalltalk 오늘 옷 예쁘네요.
+__label__smalltalk 점심 뭐 먹었어?
+__label__smalltalk 퇴근하고 싶다.
+__label__smalltalk 오늘 하루도 힘내요!
+__label__smalltalk 내일이 금요일이라니 너무 좋다.
+__label__smalltalk 감기 조심하세요.
+__label__smalltalk 요즘 일이 많아서 정신이 없네요.
+__label__smalltalk 드디어 주말이네요.
+__label__smalltalk 회사 근처에 맛있는 식당 없나요?
+__label__smalltalk 퇴근하고 뭐 하실 거예요?
+__label__smalltalk 프로젝트가 드디어 끝났다!
+__label__smalltalk 회식 메뉴 정해졌나요?
+__label__smalltalk 출근길에 차가 너무 막혔어요.
+__label__smalltalk 어제 경기 봤어요?
+__label__smalltalk 점심시간이에요!
+__label__smalltalk 오늘 날씨 정말 덥네요.
+__label__smalltalk 주말에 비 온대요.
+__label__smalltalk 피곤해서 졸려요.
+__label__smalltalk 오늘 미팅 잘 끝났어요.
+__label__smalltalk 맛있는 거 먹고 싶다.
+__label__smalltalk 사무실이 너무 건조하네요.
+__label__smalltalk 내일이 기대되네요.
+__label__smalltalk 드디어 금요일이네요!
+__label__smalltalk 오늘 저녁 뭐 먹을까요?
+__label__smalltalk 다들 점심 메뉴는 정하셨나요?
+__label__smalltalk 회사 분위기가 정말 좋아요.
+__label__smalltalk 요즘 운동 시작했어요.
+__label__smalltalk 힘내세요!
+__label__smalltalk 오늘 일이 많아서 야근할 것 같아요.
+__label__smalltalk 좋은 하루 보내세요!
+__label__smalltalk 오늘 날씨 정말 춥네요.
+__label__smalltalk 퇴근까지 화이팅!
+__label__smalltalk 벌써 점심시간이네요.
+__label__smalltalk 점심 추천해주세요.
+__label__smalltalk 주말에 영화 보러 가야겠어요.
+__label__smalltalk 점심 뭐 먹고 싶어요?
+__label__smalltalk 어제 저녁 맛있는 거 먹었어요.
+__label__smalltalk 요즘 너무 바쁘네요.
+__label__smalltalk 주말 잘 보내세요.
+__label__smalltalk 오늘 점심 메뉴는 뭐에요?
+__label__smalltalk 다음 주에 휴가 가요.
+__label__smalltalk 오늘 저녁 약속 있으세요?
+__label__internal_info 회사 이메일 용량 늘리는 방법 알려주세요
+__label__internal_info 팀원들과 점심 식대 정산은 어떻게 하나요?
+__label__internal_info 사내 복지몰 사용 방법이 궁금해요
+__label__internal_info 경조사 관련 지원금 신청 절차 알려주세요
+__label__internal_info 회사 복지카드 잔액 조회는 어디서 하죠?
+__label__internal_info 회사 근처 맛집 추천해주세요
+__label__internal_info 휴가 신청은 언제까지 해야 하나요?
+__label__internal_info 야근 식대는 자동 지급되나요?
+__label__internal_info 회사 건강검진 지정 병원이 어디인가요?
+__label__internal_info 노트북이 갑자기 안 켜져요
+__label__internal_info 사내 시스템 계정 잠금 해제 방법 알려주세요
+__label__internal_info 비품 파손 시 처리 절차는 어떻게 되나요?
+__label__internal_info 회의실 예약은 어디서 하나요?
+__label__internal_info 사내 도서관 이용 방법이 궁금해요
+__label__internal_info 신규 입사자 교육 일정은 어떻게 되나요?
+__label__internal_info 이번 달 급여 명세서 확인하고 싶어요
+__label__internal_info 회사 주차장 이용 신청은 어디서 하나요?
+__label__internal_info 사무실 온도가 너무 추운데 조절 가능한가요?
+__label__internal_info 복지포인트로 어떤 것을 구매할 수 있나요?
+__label__internal_info 회사 보안 서약서는 어디서 볼 수 있나요?
+__label__internal_info 사내 식당 메뉴를 미리 확인하고 싶어요
+__label__internal_info 개인정보 변경 신청은 어떻게 하나요?
+__label__internal_info 업무용 소프트웨어 구매 절차 알려주세요
+__label__internal_info 출입증 분실 시 재발급 방법이 궁금해요
+__label__internal_info 사내 동호회 지원금 신청 방법 알려주세요
+__label__internal_info 법인카드 사용 내역은 어디서 보나요?
+__label__internal_info 사내 카페는 몇 시부터 몇 시까지 운영되나요?
+__label__internal_info 사내 와이파이 접속이 안 돼요
+__label__internal_info 명함 제작 신청은 누구에게 해야 하나요?
+__label__internal_info 회사 내선번호 변경하고 싶어요
+__label__internal_info 유료 서체 사용 규정이 궁금해요
+__label__internal_info 급여일이 언제인가요?
+__label__internal_info 연차 신청은 어디서 하나요?
+__label__internal_info 법인차 사용 신청 방법 알려주세요
+__label__internal_info 전산팀 내선번호 알려주세요
+__label__internal_info PC 고장 났을 때 누구에게 문의해야 하나요?
+__label__internal_info 근무 시간은 어떻게 되나요?
+__label__internal_info 회사 경비 처리 규정이 궁금해요
+__label__internal_info 출장 시 숙소 예약은 어떻게 하나요?
+__label__internal_info 사내 통신망 비밀번호 알려주세요
+__label__internal_info 회사 메신저 사용법이 궁금해요
+__label__internal_info 업무용 노트북이 필요해요
+__label__internal_info 회사 이메일 백업 방법 알려주세요
+__label__internal_info 사무실 조명이 너무 어두워요
+__label__internal_info 휴게실에 정수기 필터 교체했나요?
+__label__internal_info 회사 명함 디자인이 궁금해요
+__label__internal_info 분실물 센터는 어디에 있나요?
+__label__internal_info 경조사 발생 시 증빙 서류는 무엇이 필요하나요?
+__label__internal_info 출장비 정산 시 제출 서류가 궁금해요
+__label__internal_info 연봉 계약서는 어디서 보나요?
+__label__internal_info 재택근무 신청 승인 절차 알려주세요
+__label__internal_info 사무용품 재고 확인은 어떻게 하나요?
+__label__internal_info 회사 주식 매수 신청은 어디서 하죠?
+__label__internal_info 팀 회식비 정산은 어떻게 하나요?
+__label__internal_info 휴가 사용 내역은 어디서 보나요?
+__label__internal_info 사내 헬스장 운영 시간이 어떻게 되나요?
+__label__internal_info 업무 중 네트워크가 불안정해요
+__label__internal_info 팀장님 휴가 중이신가요?
+__label__internal_info 사내 셔틀버스 노선 알려주세요
+__label__internal_info 회의실에 프로젝터가 작동이 안 돼요
+__label__internal_info 회사 법인폰 신청 절차가 궁금해요
+__label__internal_info 재직증명서 발급은 어디서 하나요?
+__label__internal_info 사무실 청소는 언제 진행되나요?
+__label__internal_info 복지포인트는 언제 소멸되나요?
+__label__internal_info 사내 메일 계정 만드는 방법 알려주세요
+__label__internal_info 회사 경비 지출 내역은 어떻게 확인하나요?
+__label__internal_info 사내 식당 운영 시간이 궁금해요
+__label__internal_info 임신 출산 휴가 규정 알려주세요
+__label__internal_info 회사 통근 버스 노선 정보 알려주세요
+__label__internal_info 출장 복귀 후 보고는 어떻게 하나요?
+__label__internal_info 사무실 냉난방 시간 알려주세요
+__label__internal_info 회사에서 지원하는 교육 목록이 궁금해요
+__label__internal_info 재택근무 포털 사이트 주소 알려주세요
+__label__internal_info 인쇄용지가 없는데 어디서 보충하나요?
+__label__internal_info 출근 시간은 몇 시까지인가요?
+__label__internal_info 월차 사용 기준이 어떻게 되나요?
+__label__internal_info 팀장님 출장 일정 알려주세요
+__label__internal_info 회사 행사 일정은 어디서 보나요?
+__label__internal_info 야근 신청은 어떻게 하나요?
+__label__form_request 휴가 신청서 양식 보내주세요
+__label__form_request 연차 신청서 양식 필요해요
+__label__form_request 출장비 정산 서류 양식 어디 있나요?
+__label__form_request 재직증명서 발급 신청은 어떻게 하나요?
+__label__form_request 명함 제작 신청 양식 주세요
+__label__form_request 법인카드 사용 신청서 양식 필요해요
+__label__form_request 경비 처리 보고서 양식 보내주세요
+__label__form_request 사무용품 신청서 양식 어디 있나요?
+__label__form_request 교육 이수 확인증 발급 양식 주세요
+__label__form_request 복지포인트 사용 신청서 양식 필요해요
+__label__form_request 증명서 발급 신청서 양식 좀 보내주세요
+__label__form_request 퇴직금 정산 신청 양식 주세요
+__label__form_request 사내 교육 신청서 양식 어디서 받아요?
+__label__form_request 프로젝트 제안서 템플릿 보내주세요
+__label__form_request 재택근무 신청서 양식 필요해요
+__label__form_request 연말정산 서류 양식 알려주세요
+__label__form_request 출산휴가 신청서 양식 좀 주세요
+__label__form_request 병가 신청 양식 어디 있나요?
+__label__form_request 사내 포상 신청서 양식 필요해요
+__label__form_request 회사 공문 양식 어디서 받나요?
+__label__form_request 원격 근무 신청서 양식 주세요
+__label__form_request 경조사 지원 신청서 양식 어디 있나요?
+__label__form_request 차량 운행 일지 양식 주세요
+__label__form_request 신규 직원 사원증 발급 신청 양식 필요해요
+__label__form_request 출장 보고서 양식 좀 보내주세요
+__label__form_request 사내 동호회 지원금 신청 양식 어디 있나요?
+__label__form_request 휴직 신청서 양식 주세요
+__label__form_request 신제품 개발 계획서 템플릿 필요해요
+__label__form_request 법인카드 사용 내역 보고서 양식 어디서 받아요?
+__label__form_request 보안 서약서 양식 좀 보내주세요
+__label__form_request 채용 관련 서류 양식 필요해요
+__label__form_request 주차 등록 신청서 양식 어디 있나요?
+__label__form_request 서류 제출 확인서 양식 주세요
+__label__form_request 장비 대여 신청서 양식 필요해요
+__label__form_request 사내 전산망 접속 신청서 양식 어디 있나요?
+__label__form_request 업무 자료 공유 동의서 양식 주세요
+__label__form_request 개인정보 수집 동의서 양식 필요해요
+__label__form_request 팀 회식 경비 신청서 양식 어디 있나요?
+__label__form_request 신규 거래처 등록 신청서 양식 주세요
+__label__form_request 자산 관리 신청서 양식 필요해요
+__label__form_request 증명사진 제출 양식 어디 있나요?
+__label__form_request 신입사원 온보딩 체크리스트 양식 주세요
+__label__form_request 계약서 템플릿 좀 보내주세요
+__label__form_request 외부 미팅 신청서 양식 어디 있나요?
+__label__form_request 부서 이동 신청서 양식 주세요
+__label__form_request 퇴사 신청서 양식 필요해요
+__label__form_request 급여 계좌 변경 신청서 양식 어디서 받아요?
+__label__form_request 명함 제작 신청서 양식 좀 주세요
+__label__form_request 복지포인트 사용 신청서 양식 보내주세요
+__label__form_request 연차 사용 신청서 양식 필요해요
+__label__form_request 법인차량 사용 신청서 양식 주세요
+__label__form_request 프로젝트 완료 보고서 템플릿 필요해요
+__label__form_request 신규 시스템 권한 신청 양식 어디 있나요?
+__label__form_request 기술 자료 열람 신청 양식 주세요
+__label__form_request 개발 장비 구매 신청서 양식 필요해요
+__label__form_request 외부 교육 참가 신청서 양식 어디서 받아요?
+__label__form_request 업무 평가서 양식 좀 보내주세요
+__label__form_request 퇴직 연금 운용 신청서 양식 주세요
+__label__form_request 제휴 제안서 템플릿 필요해요
+__label__form_request 인턴십 참가 신청서 양식 어디 있나요?
+__label__form_request 신입사원 채용 추천서 양식 주세요
+__label__form_request 비밀 유지 서약서 양식 필요해요
+__label__form_request 외부 강의 신청서 양식 어디 있나요?
+__label__form_request 개인 정보 유출 신고 양식 주세요
+__label__form_request 사내 행사 참여 신청서 양식 필요해요
+__label__form_request 사내 게시판 사용 신청서 양식 주세요
+__label__form_request 회사 내선 전화번호 변경 신청서 양식 어디 있나요?
+__label__form_request 사내 복지 시설 이용 신청서 양식 필요해요
+label__form_request 프로젝트 경비 정산 양식 좀 보내주세요
+__label__form_request 사내 동호회 활동 보고서 양식 주세요
+__label__form_request 회사 건물 출입증 발급 신청서 양식 어디 있나요?
+__label__form_request 차량 관리 신청서 양식 필요해요
+__label__form_request 개인 물품 반입 신청서 양식 주세요
+__label__form_request 회사 공용 계정 사용 신청서 양식 필요해요
+__label__form_request 출근/퇴근 기록부 양식 좀 보내주세요
+__label__form_request 팀 회의록 양식 주세요
+__label__form_request 신규 소프트웨어 도입 신청서 양식 어디 있나요?
+__label__form_request 개인용 장비 보안 검수 신청서 양식 필요해요
+__label__form_request 직원 추천 포상 신청 양식 주세요
+__label__org_chart 개발팀 구성원이 궁금해요
+__label__org_chart 마케팅팀 팀장님 연락처 알려주세요
+__label__org_chart 기획팀에 누가 있나요?
+__label__org_chart 영업부 직원 명단 알 수 있나요?
+__label__org_chart 인사팀 조직도 보고 싶어요
+__label__org_chart IT팀 담당자 연락처 필요해요
+__label__org_chart 신입사원들 소속 부서 알고 싶어요
+__label__org_chart 각 부서별 인원수 알 수 있나요?
+__label__org_chart 이상훈 과장은 어디 팀이죠?
+__label__org_chart 홍보팀 몇 명이에요?
+__label__org_chart 디자인팀 누가 있는지 알고 싶어요
+__label__org_chart 영업팀 팀장님 누구세요?
+__label__org_chart QA팀 소속 직원 명단 주세요
+__label__org_chart 회계팀 조직 구조 알려주세요
+__label__org_chart 부서장들 명단이 필요해요
+__label__org_chart 경영진 조직도 볼 수 있나요?
+__label__org_chart 신사업팀에는 누가 있나요?
+__label__org_chart 전략기획실 담당자는 누구죠?
+__label__org_chart 사업부별 조직 구성 알고 싶어요
+__label__org_chart 관리부서 조직도 필요해요
+__label__org_chart 마케팅팀 직급별 인원 알려주세요
+__label__org_chart 조직도에서 누가 우리 팀장이죠?
+__label__org_chart 회사 조직 구조 설명해주세요
+__label__org_chart 부서별 업무 분장 알고 싶어요
+__label__org_chart 임원진 명단 확인하고 싶어요
+__label__org_chart 신입사원 배치 부서 알려주세요
+__label__org_chart R&D팀 구성원 누구누구인가요?
+__label__org_chart 기업부설연구소 조직도 주세요
+__label__org_chart 각 팀 팀장님들 연락처 필요해요
+__label__org_chart 회사 전체 직원 수 알고 싶어요
+__label__org_chart 조직도 어디서 볼 수 있죠?
+__label__org_chart 고객지원팀 팀원 연락처 주세요
+__label__org_chart 상품기획팀 누가 담당자인가요?
+__label__org_chart 법무팀 변호사님 연락처 알려주세요
+__label__org_chart 감사팀 조직 구성 궁금해요
+__label__org_chart 구매팀 담당자 확인하고 싶어요
+__label__org_chart 물류팀 직원 명단 필요해요
+__label__org_chart 제품개발팀 조직도 보여주세요
+__label__org_chart 계열사 조직 구조 알고 싶어요
+__label__org_chart 신입사원 멘토는 누구예요?
+__label__org_chart 부서별 예산 담당자 누구인가요?
+__label__org_chart 지사별 조직도 확인하고 싶어요
+__label__org_chart 신규 프로젝트팀 구성원 알려주세요
+__label__org_chart 각 부서 과장급 이상 명단 주세요
+__label__org_chart 협력업체 담당 부서는 어디인가요?
+__label__org_chart 해외법인 조직도 볼 수 있나요?
+__label__org_chart TF팀 구성원 확인하고 싶어요
+__label__org_chart 부사장님들 담당 업무 알려주세요
+__label__org_chart 품질관리팀 조직 구성 알고 싶어요
+__label__org_chart 보안팀 담당자 연락처 필요해요
+__label__org_chart 컨설팅팀 조직도 확인하고 싶어요
+__label__org_chart 기업문화팀 누가 담당하나요?
+__label__org_chart 고객서비스팀 조직 구조 알려주세요
+__label__org_chart 수출팀 직원 연락처 알고 싶어요
+__label__org_chart 투자개발팀 팀장님 누구세요?
+__label__org_chart 신사업개발팀 구성 알려주세요
+__label__org_chart 특허팀 변리사님은 누구인가요?
+__label__org_chart 글로벌사업부 조직도 주세요
+__label__org_chart 사업전략팀 담당자 연락처 주세요
+__label__org_chart 예산기획팀 누가 있는지 알고 싶어요
+__label__org_chart 정보보안팀 조직 구성 궁금해요
+__label__org_chart 인사팀 대리님은 누구인가요?
+__label__org_chart 회사 전체 직원 명단 볼 수 있나요?
+__label__org_chart 부서 이동 후 조직도 업데이트됐나요?
+__label__org_chart 계열사 포함 전체 조직도 필요해요
+__label__org_chart 임직원 연락처 통합 명단 있나요?
+__label__org_chart 각 팀별 업무 분장 확인하고 싶어요
+__label__org_chart 신규 채용자들 소속 부서 알려주세요
+__label__org_chart 조직 개편 후 변경된 구조 보여주세요
+__label__org_chart 본부별 조직도 따로 볼 수 있나요?
+__label__org_chart 팀별 인원수와 구성 알고 싶어요
+__label__org_chart 상급자 승인라인 확인하고 싶어요
+__label__org_chart 부서 간 협업 구조 알려주세요
+__label__org_chart 직급별 조직도 분류해서 보여주세요
+__label__org_chart 재무팀 담당자는 누구인가요?
+__label__org_chart 내부 감사는 어느 팀에서 담당하나요?
+__label__org_chart IT 인프라 부서 관리자는 누구죠?
+__label__org_chart 연구개발팀 조직도 보여주세요
+__label__org_chart 법무팀 팀장님은 누구세요?
+__label__org_chart 마케팅 캠페인 담당 부서는 어디인가요?
+__label__org_chart 고객서비스 부서 책임자는 누구인가요?

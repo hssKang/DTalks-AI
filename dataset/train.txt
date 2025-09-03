@@ -1,0 +1,1557 @@
+__label__internal_info What should I do when the printer breaks down?
+__label__org_chart Which department is Assistant Manager Kim Cheolsu in?
+__label__internal_info When are welfare points distributed?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk The company atmosphere seems good
+__label__org_chart Please tell me the contact information of the marketing team manager
+__label__form_request I need a supply request form
+__label__smalltalk The weather is nice today
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__form_request Please send me the maternity leave application form
+__label__org_chart Who is in the planning team?
+__label__org_chart Can I get the sales department employee list?
+__label__internal_info What should I do when the printer breaks down?
+__label__internal_info What is the name of the planning team manager?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__org_chart I want to see the HR team organizational chart
+__label__form_request How do I apply for an employment certificate?
+__label__form_request Where is the business trip expense settlement form?
+__label__smalltalk The subway was really crowded on the way to work
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Is the team manager on vacation?
+__label__form_request Please share the corporate card application form
+__label__form_request Where is the business trip expense settlement form?
+__label__internal_info Please tell me the company wifi password
+__label__org_chart Where can I see the entire company organizational chart?
+__label__internal_info Please give me the general affairs team contact information
+__label__form_request Is there a training completion certificate form?
+__label__internal_info When are welfare points distributed?
+__label__internal_info When are welfare points distributed?
+__label__internal_info Is security training mandatory every year?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__smalltalk The weather is nice today
+__label__smalltalk It's tough these days, isn't it?
+__label__form_request Is there a project proposal template?
+__label__smalltalk The weather is nice today
+__label__form_request Is there a remote work application form?
+__label__org_chart I'm curious about the development team members
+__label__smalltalk It's time for overtime
+__label__smalltalk The company atmosphere seems good
+__label__org_chart Who is the general manager?
+__label__org_chart I need the IT team contact information
+__label__org_chart I want to know which departments the new employees belong to
+__label__internal_info What is the name of the planning team manager?
+__label__smalltalk The company atmosphere seems good
+__label__smalltalk It's time for overtime
+__label__org_chart Can I know the number of people in each department?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk The subway was really crowded on the way to work
+__label__internal_info Which team is Manager Lee Sanghoon in?
+__label__internal_info How many people are in the PR team?
+__label__smalltalk How about a cup of coffee?
+__label__internal_info What is the name of the planning team manager?
+__label__internal_info Is security training mandatory every year?
+__label__internal_info What should I do when the printer breaks down?
+__label__form_request I need a supply request form
+__label__form_request Where is the business trip expense settlement form?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk The subway was really crowded on the way to work
+__label__form_request Is there a remote work application form?
+__label__internal_info Please tell me the HR team extension number
+__label__internal_info Are there work attire regulations?
+__label__form_request Please share the corporate card application form
+__label__org_chart I want to know who is in the design team
+__label__smalltalk The company atmosphere seems good
+__label__org_chart Who is the sales team manager?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__internal_info Please give me the general affairs team contact information
+__label__org_chart Please give me the QA team employee list
+__label__form_request Please send me the maternity leave application form
+__label__internal_info How is the UX team seating arrangement?
+__label__org_chart Please tell me the accounting team organizational structure
+__label__form_request Please send me the maternity leave application form
+__label__internal_info Please tell me the HR team extension number
+__label__org_chart I need the department heads list
+__label__smalltalk How about a cup of coffee?
+__label__org_chart Can I see the executive organizational chart?
+__label__org_chart Who is in the new business team?
+__label__form_request Where is the company training application form?
+__label__internal_info Please tell me the company wifi password
+__label__smalltalk The weather is nice today
+__label__internal_info What is the name of the planning team manager?
+__label__form_request Please send me the maternity leave application form
+__label__form_request How do I apply for an employment certificate?
+__label__form_request I need a supply request form
+__label__org_chart Who is the strategic planning office representative?
+__label__internal_info What should I do if VPN disconnects during work?
+__label__smalltalk I want to rest well this weekend
+__label__smalltalk I want to rest well this weekend
+__label__internal_info Is the team manager on vacation?
+__label__smalltalk How about a cup of coffee?
+__label__form_request Please give me the annual leave application form
+__label__org_chart I want to know the organizational structure by business unit
+__label__smalltalk I really hate Mondays
+__label__smalltalk The company atmosphere seems good
+__label__form_request Please give me the annual leave application form
+__label__internal_info Please tell me the company wifi password
+__label__internal_info How many people are in the PR team?
+__label__smalltalk The company atmosphere seems good
+__label__smalltalk I'm tired from many meetings today
+__label__internal_info What is the name of the planning team manager?
+__label__org_chart I need the management department organizational chart
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__internal_info Please tell me the HR team extension number
+__label__internal_info Where can I see the company cafeteria menu?
+__label__smalltalk I'm tired from many meetings today
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__form_request Please give me the annual leave application form
+__label__smalltalk It's time for overtime
+__label__internal_info Are there work attire regulations?
+__label__org_chart Please tell me the marketing team personnel by position
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk I want to rest well this weekend
+__label__form_request Where is the business trip expense settlement form?
+__label__org_chart Who is our team manager in the organizational chart?
+__label__form_request Please send me the maternity leave application form
+__label__smalltalk The weather is nice today
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info When are welfare points distributed?
+__label__smalltalk I'm tired from many meetings today
+__label__internal_info Until what time does the company cafe operate?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__internal_info What should I do when the printer breaks down?
+__label__internal_info What should I do if VPN disconnects during work?
+__label__internal_info Where can I see the organizational chart?
+__label__internal_info How is the UX team seating arrangement?
+__label__org_chart Please explain the company organizational structure
+__label__org_chart I want to know the work division by department
+__label__internal_info Where do I reissue my access card?
+__label__smalltalk It's tough these days, isn't it?
+__label__internal_info Is security training mandatory every year?
+__label__form_request Please send me the maternity leave application form
+__label__org_chart I want to check the executive list
+__label__org_chart Please tell me which departments the new employees are assigned to
+__label__smalltalk The subway was really crowded on the way to work
+__label__org_chart Who are the R&D team members?
+__label__internal_info Which team is Manager Lee Sanghoon in?
+__label__internal_info Please tell me the company wifi password
+__label__internal_info Where can I see the company cafeteria menu?
+__label__form_request Please give me the annual leave application form
+__label__smalltalk It's tough these days, isn't it?
+__label__internal_info How is the UX team seating arrangement?
+__label__org_chart Please give me the corporate research institute organizational chart
+__label__form_request Where is the company training application form?
+__label__org_chart I need the contact information of each team manager
+__label__internal_info Where do I reissue my access card?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__smalltalk The company atmosphere seems good
+__label__internal_info Please tell me the company wifi password
+__label__form_request Is there a remote work application form?
+__label__org_chart I want to know the total number of employees in the company
+__label__internal_info Where can I see the organizational chart?
+__label__smalltalk The weather is nice today
+__label__smalltalk The company atmosphere seems good
+__label__internal_info Are there work attire regulations?
+__label__smalltalk I really hate Mondays
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk I'm just waiting for lunch time
+__label__internal_info Is security training mandatory every year?
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__internal_info Which team is Manager Lee Sanghoon in?
+__label__org_chart I want to see the inter-departmental work connection chart
+__label__form_request How do I apply for an employment certificate?
+__label__internal_info Until what time does the company cafe operate?
+__label__org_chart Please give me the customer support team member contacts
+__label__internal_info How is the UX team seating arrangement?
+__label__internal_info How is the UX team seating arrangement?
+__label__internal_info Which team is Manager Lee Sanghoon in?
+__label__smalltalk The company atmosphere seems good
+__label__internal_info Where do I reissue my access card?
+__label__internal_info Where can I see the organizational chart?
+__label__smalltalk It's time for overtime
+__label__form_request Is there a remote work application form?
+__label__form_request I need a supply request form
+__label__smalltalk It's time for overtime
+__label__smalltalk It's tough these days, isn't it?
+__label__smalltalk It's time for overtime
+__label__smalltalk How about a cup of coffee?
+__label__internal_info Please tell me the HR team extension number
+__label__org_chart Who is in charge of the product planning team?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__internal_info When are welfare points distributed?
+__label__smalltalk How about a cup of coffee?
+__label__org_chart Please tell me the legal team lawyer's contact information
+__label__org_chart I'm curious about the audit team organizational structure
+__label__internal_info How is the UX team seating arrangement?
+__label__internal_info How many people are in the PR team?
+__label__smalltalk The company atmosphere seems good
+__label__form_request Please send me the maternity leave application form
+__label__smalltalk The company atmosphere seems good
+__label__form_request Please share the corporate card application form
+__label__smalltalk How about a cup of coffee?
+__label__form_request Is there a training completion certificate form?
+__label__smalltalk The weather is nice today
+__label__internal_info Until what time does the company cafe operate?
+__label__org_chart I want to check the purchasing team representative
+__label__form_request Please share the corporate card application form
+__label__form_request Please send me the maternity leave application form
+__label__internal_info What should I do when the printer breaks down?
+__label__internal_info How is the UX team seating arrangement?
+__label__form_request Please send me the maternity leave application form
+__label__org_chart I need the logistics team employee list
+__label__org_chart Please show me the product development team organizational chart
+__label__smalltalk It's tough these days, isn't it?
+__label__org_chart I want to know the affiliate organizational structure
+__label__smalltalk The company atmosphere seems good
+__label__internal_info Who is the new employee mentor?
+__label__internal_info Are there work attire regulations?
+__label__form_request Please send me the maternity leave application form
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__smalltalk I want to rest well this weekend
+__label__org_chart Who are the budget managers for each department?
+__label__smalltalk It's tough these days, isn't it?
+__label__internal_info When are welfare points distributed?
+__label__internal_info Are there work attire regulations?
+__label__internal_info Until what time does the company cafe operate?
+__label__form_request Please send me the maternity leave application form
+__label__form_request Please send me the maternity leave application form
+__label__form_request Please give me the annual leave application form
+__label__form_request Please give me the annual leave application form
+__label__internal_info How many people are in the PR team?
+__label__org_chart I want to check the organizational chart by branch
+__label__internal_info Who is the new employee mentor?
+__label__internal_info What should I do if VPN disconnects during work?
+__label__form_request Where is the company training application form?
+__label__form_request Is there a project proposal template?
+__label__internal_info How is the UX team seating arrangement?
+__label__smalltalk The subway was really crowded on the way to work
+__label__smalltalk I want to rest well this weekend
+__label__smalltalk I want to rest well this weekend
+__label__internal_info What is the name of the planning team manager?
+__label__internal_info How is the UX team seating arrangement?
+__label__form_request Is there a remote work application form?
+__label__form_request I need a supply request form
+__label__form_request Please give me the annual leave application form
+__label__smalltalk I really hate Mondays
+__label__internal_info What should I do if VPN disconnects during work?
+__label__form_request Is there a training completion certificate form?
+__label__form_request Where is the company training application form?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__form_request Please send me the maternity leave application form
+__label__internal_info What should I do when the printer breaks down?
+__label__internal_info How many people are in the PR team?
+__label__org_chart Please tell me the new project team members
+__label__org_chart Please give me the list of managers and above in each department
+__label__smalltalk I want to rest well this weekend
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info Until what time does the company cafe operate?
+__label__form_request How do I apply for an employment certificate?
+__label__internal_info Where do I reissue my access card?
+__label__internal_info What should I do if VPN disconnects during work?
+__label__form_request Where is the business trip expense settlement form?
+__label__form_request Please give me the annual leave application form
+__label__smalltalk I'm just waiting for lunch time
+__label__smalltalk The company atmosphere seems good
+__label__form_request Where is the business trip expense settlement form?
+__label__internal_info Is security training mandatory every year?
+__label__smalltalk I really hate Mondays
+__label__internal_info What should I do if VPN disconnects during work?
+__label__internal_info Where can I see the organizational chart?
+__label__smalltalk It's tough these days, isn't it?
+__label__form_request Please send me the maternity leave application form
+__label__org_chart Which department handles partner companies?
+__label__form_request I need a supply request form
+__label__internal_info When are welfare points distributed?
+__label__internal_info When are welfare points distributed?
+__label__smalltalk The weather is nice today
+__label__smalltalk I want to rest well this weekend
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Please tell me the HR team extension number
+__label__org_chart Can I see the overseas subsidiary organizational chart?
+__label__internal_info Where can I see the organizational chart?
+__label__form_request Is there a project proposal template?
+__label__form_request Please give me the annual leave application form
+__label__smalltalk I want to rest well this weekend
+__label__internal_info What is the name of the planning team manager?
+__label__internal_info Please tell me the company wifi password
+__label__internal_info Please tell me the company wifi password
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info How is the UX team seating arrangement?
+__label__org_chart I want to check the TF team members
+__label__internal_info Where can I see the company cafeteria menu?
+__label__org_chart Please tell me the vice presidents' responsibilities
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__smalltalk I'm just waiting for lunch time
+__label__form_request How do I apply for an employment certificate?
+__label__internal_info How is the UX team seating arrangement?
+__label__internal_info Who is the new employee mentor?
+__label__org_chart I want to know the quality management team organizational structure
+__label__internal_info How is the UX team seating arrangement?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__internal_info Please tell me the company wifi password
+__label__internal_info How is the UX team seating arrangement?
+__label__org_chart I need the security team representative contact information
+__label__form_request Please send me the maternity leave application form
+__label__form_request Please share the corporate card application form
+__label__org_chart I want to check the consulting team organizational chart
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__smalltalk The subway was really crowded on the way to work
+__label__internal_info Which team is Manager Lee Sanghoon in?
+__label__internal_info How many people are in the PR team?
+__label__internal_info Please give me the general affairs team contact information
+__label__form_request Is there a project proposal template?
+__label__internal_info Where do I reissue my access card?
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info Where do I reissue my access card?
+__label__org_chart Who is in charge of the corporate culture team?
+__label__internal_info When are welfare points distributed?
+__label__org_chart Please tell me the customer service team organizational structure
+__label__smalltalk I'm tired from many meetings today
+__label__internal_info Please tell me the HR team extension number
+__label__form_request Please share the corporate card application form
+__label__internal_info Where can I see the company cafeteria menu?
+__label__internal_info Please tell me the HR team extension number
+__label__smalltalk I'm just waiting for lunch time
+__label__org_chart I want to know the export team employee contacts
+__label__org_chart Who is the investment development team manager?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__form_request Is there a training completion certificate form?
+__label__form_request Where is the company training application form?
+__label__form_request Where is the business trip expense settlement form?
+__label__org_chart Please tell me the new business development team composition
+__label__form_request I need a supply request form
+__label__form_request Please share the corporate card application form
+__label__internal_info Is Assistant Manager OOO working from home today?
+__label__internal_info Are there work attire regulations?
+__label__smalltalk How about a cup of coffee?
+__label__form_request Is there a training completion certificate form?
+__label__org_chart Who is the patent team patent attorney?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__org_chart Please give me the global business division organizational chart
+__label__form_request Please give me the annual leave application form
+__label__form_request Please send me the maternity leave application form
+__label__org_chart Please give me the business strategy team representative contact
+__label__org_chart I want to know who is in the budget planning team
+__label__form_request Where is the company training application form?
+__label__org_chart I'm curious about the information security team organizational structure
+__label__internal_info What should I do if VPN disconnects during work?
+__label__smalltalk I really hate Mondays
+__label__form_request Where is the business trip expense settlement form?
+__label__internal_info Please tell me the company wifi password
+__label__internal_info Please tell me the HR team extension number
+__label__smalltalk I really hate Mondays
+__label__internal_info Is the team manager on vacation?
+__label__internal_info How many people are in the PR team?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__internal_info How is the UX team seating arrangement?
+__label__smalltalk I really hate Mondays
+__label__form_request Is there a project proposal template?
+__label__form_request Please give me the annual leave application form
+__label__smalltalk What should we eat for lunch?
+__label__smalltalk What would be good for today's lunch menu?
+__label__smalltalk I'm hungry and wondering what to eat
+__label__smalltalk I'm looking forward to lunch time
+__label__smalltalk I want to eat something
+__label__smalltalk I want to eat something delicious
+__label__smalltalk Please recommend lunch
+__label__smalltalk How about a cup of coffee?
+__label__internal_info The computer won't turn on
+__label__internal_info The system is down
+__label__internal_info The equipment is not responding
+__label__internal_info The internet is not working
+__label__internal_info The wifi keeps disconnecting
+__label__smalltalk I'm busy today
+__label__smalltalk I have too much work
+__label__smalltalk I have a mountain of things to do
+__label__smalltalk My schedule is tight
+__label__smalltalk I think I'll be busy all day today
+__label__smalltalk It's hard because I have many schedules
+__label__smalltalk Work is piling up
+__label__smalltalk I have meetings back to back
+__label__smalltalk Today's schedule is tight
+__label__smalltalk I don't have enough time
+__label__smalltalk I'm too busy today
+__label__smalltalk I'm so busy these days I could die
+__label__smalltalk I can't see the end of work
+__label__smalltalk I don't want to work overtime
+__label__smalltalk I'm so tired I could die
+__label__smalltalk I want to go home
+__label__smalltalk This week is really tough
+__label__smalltalk The workload is too much
+__label__smalltalk I can only sigh
+__label__org_chart Where can I check the company organizational chart?
+__label__org_chart I want to know the responsibilities of each department
+__label__org_chart Please give me the team managers' contact list
+__label__org_chart Which departments are the new employees assigned to?
+__label__org_chart Who is my supervisor in the organizational chart?
+__label__org_chart Can I see the entire company employee list?
+__label__org_chart Has the organizational chart been updated after department transfer?
+__label__org_chart I need the complete organizational chart including affiliates
+__label__org_chart Is there an integrated employee contact list?
+__label__internal_info The printer is broken
+__label__internal_info The copier is not working
+__label__internal_info There's a printer problem
+__label__internal_info Printing is not working
+__label__internal_info There's a printing error
+__label__org_chart I want to check the work division for each team
+__label__org_chart Please tell me which departments the new hires belong to
+__label__org_chart Please show me the changed structure after organizational restructuring
+__label__org_chart Can I see the organizational chart by division separately?
+__label__org_chart I want to know the personnel and composition by team
+__label__org_chart I want to check the supervisor approval line
+__label__org_chart Please tell me the inter-departmental collaboration structure
+__label__org_chart Please show me the organizational chart classified by position
+__label__internal_info When is the salary date?
+__label__internal_info When is payday?
+__label__internal_info When is this month's salary date?
+__label__internal_info Please tell me the salary payment date
+__label__internal_info When does this month's salary come out?
+__label__internal_info When is the salary day?
+__label__internal_info When is the salary payment date?
+__label__internal_info How many days of annual leave do I have left?
+__label__internal_info Can annual leave be used as half-day leave?
+__label__internal_info Is overtime pay calculated automatically?
+__label__internal_info I'm curious about my welfare points balance
+__label__internal_info Is salary paid during maternity leave?
+__label__internal_info Where can I check my pay stub?
+__label__internal_info How do I settle meal expenses?
+__label__internal_info Can business trip expenses be paid by card?
+__label__internal_info Where do I apply for congratulatory money?
+__label__form_request Please give me the annual leave application form
+__label__form_request Please send me the maternity leave application form
+__label__smalltalk What time is it now?
+__label__smalltalk What time is it?
+__label__smalltalk Can you tell me the current time?
+__label__smalltalk What's the time right now?
+__label__smalltalk Do you know what time it is?
+__label__smalltalk I want to know the current time
+__label__smalltalk Please tell me the time
+__label__smalltalk What time is it exactly?
+__label__smalltalk Can you check the time for me?
+__label__smalltalk I'm curious about the current time
+__label__smalltalk How's the weather today?
+__label__smalltalk What's the weather like today?
+__label__smalltalk Is it sunny outside?
+__label__smalltalk Is it raining today?
+__label__smalltalk What's the weather forecast for today?
+__label__smalltalk How's the weather outside?
+__label__smalltalk Is it cold today?
+__label__smalltalk Is it hot today?
+__label__smalltalk What's the temperature today?
+__label__smalltalk Should I bring an umbrella?
+__label__smalltalk Will it rain today?
+__label__smalltalk Is it cloudy outside?
+__label__smalltalk What's today's weather?
+__label__smalltalk How's the weather this morning?
+__label__smalltalk What's the weather like right now?
+__label__smalltalk What day is it today?
+__label__smalltalk What's today's date?
+__label__smalltalk What day of the week is it?
+__label__smalltalk Is today Monday?
+__label__smalltalk What month is it now?
+__label__smalltalk What year is it?
+__label__smalltalk Is today a holiday?
+__label__smalltalk Is today a weekend?
+__label__smalltalk What's the current date?
+__label__smalltalk Can you tell me today's date?
+__label__smalltalk It's already this late?
+__label__smalltalk Time flies so fast
+__label__smalltalk I can't believe it's already this time
+__label__smalltalk The day went by so quickly
+__label__smalltalk It feels like time is flying
+__label__smalltalk I lost track of time
+__label__smalltalk Where did all the time go?
+__label__smalltalk It's getting late
+__label__smalltalk Time really does fly
+__label__smalltalk I should check the time more often
+__label__smalltalk The weather is perfect today
+__label__smalltalk It's such beautiful weather
+__label__smalltalk Great weather for going out
+__label__smalltalk The weather makes me feel good
+__label__smalltalk I love this kind of weather
+__label__smalltalk It's perfect weather for a walk
+__label__smalltalk What a lovely day
+__label__smalltalk The weather is so refreshing
+__label__smalltalk I hope the weather stays like this
+__label__smalltalk This weather puts me in a good mood
+__label__internal_info What should I do when the printer breaks down?
+__label__internal_info What do I need to do if the printer isn't working?
+__label__internal_info The printer's broken, what should I do?
+__label__internal_info Can you tell me what to do when the printer stops working?
+__label__org_chart Which department is Assistant Manager Kim Cheolsu in?
+__label__org_chart Do you know which team Assistant Manager Kim Cheolsu belongs to?
+__label__org_chart Where does Assistant Manager Kim Cheolsu work?
+__label__org_chart Could you let me know Kim Cheolsu's department?
+__label__smalltalk The company atmosphere seems good
+__label__smalltalk I think the company vibe is nice
+__label__smalltalk The atmosphere here feels pretty good
+__label__smalltalk The mood at work is really pleasant
+__label__form_request I need a supply request form
+__label__form_request Could you send me the supply request form?
+__label__form_request I’d like to get the supply request form, please
+__label__form_request Can I have the supply request form?
+__label__smalltalk The weather is nice today
+__label__smalltalk Today's weather is really nice, isn't it?
+__label__smalltalk The weather feels great today
+__label__smalltalk What a beautiful day!
+__label__internal_info When are welfare points distributed?
+__label__internal_info Do you know when welfare points get paid out?
+__label__internal_info When do we receive our welfare points?
+__label__internal_info Could you tell me the welfare point distribution date?
+__label__org_chart Please tell me the contact information of the marketing team manager
+__label__org_chart Can I get the marketing team manager's contact info?
+__label__org_chart Who should I contact for the marketing team manager?
+__label__org_chart Could you share the marketing manager's contact details?
+__label__form_request Please send me the maternity leave application form
+__label__form_request Can you send me the maternity leave form?
+__label__form_request I need the maternity leave application, please
+__label__form_request Would you mind sending the maternity leave form?
+__label__smalltalk It's tough these days, isn't it?
+__label__smalltalk Things have been pretty rough lately, right?
+__label__smalltalk It's been hard these days, don't you think?
+__label__smalltalk Life's a bit tough these days, huh?
+__label__org_chart Who is in the planning team?
+__label__org_chart Can you tell me who's in the planning team?
+__label__org_chart Who are the members of the planning team?
+__label__org_chart I'd like to know the planning team members
+__label__form_request Is there a project proposal template?
+__label__form_request Do we have a template for project proposals?
+__label__form_request Is a project proposal template available?
+__label__form_request Can I get the project proposal template?
+__label__internal_info Where can I check the company system maintenance schedule?
+__label__internal_info How do I find the system maintenance schedule?
+__label__internal_info Where's the schedule for company system maintenance?
+__label__internal_info Can you tell me where to check the maintenance schedule?
+__label__smalltalk I want to rest well this weekend
+__label__smalltalk I hope I can relax this weekend
+__label__smalltalk Looking forward to a restful weekend
+__label__smalltalk I just want to chill out this weekend
+__label__internal_info Please tell me the company wifi password
+__label__internal_info What's the company wifi password?
+__label__internal_info Can you share the wifi password for the office?
+__label__internal_info Could you let me know the wifi password?
+__label__org_chart Where can I see the entire company organizational chart?
+__label__org_chart How do I view the full company org chart?
+__label__org_chart Where's the complete organizational chart?
+__label__org_chart Can you show me the company org chart?
+__label__form_request How do I apply for an employment certificate?
+__label__form_request What's the process for getting an employment certificate?
+__label__form_request How can I request an employment certificate?
+__label__form_request Could you tell me how to apply for an employment certificate?
+__label__smalltalk The subway was really crowded on the way to work
+__label__smalltalk The subway was packed this morning
+__label__smalltalk It was so crowded on the subway today
+__label__smalltalk Commuting was tough, the subway was full
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Is our team manager away on leave?
+__label__internal_info Do you know if the team manager is on vacation?
+__label__internal_info Is the manager out of office?
+__label__form_request Please share the corporate card application form
+__label__form_request Can you send me the corporate card application?
+__label__form_request I need the corporate card application form, please
+__label__form_request Would you mind sharing the corporate card form?
+__label__internal_info Is security training mandatory every year?
+__label__internal_info Do we have to do security training every year?
+__label__internal_info Is annual security training required?
+__label__internal_info Is yearly security training compulsory?
+__label__smalltalk It's time for overtime
+__label__smalltalk Looks like overtime again
+__label__smalltalk Time for some extra hours
+__label__smalltalk Guess I'll be working late today
+__label__org_chart Can I get the sales department employee list?
+__label__org_chart Could you give me the list of sales department employees?
+__label__org_chart Who's in the sales department?
+__label__org_chart I'd like to see the sales team employee list
+__label__internal_info What is the name of the planning team manager?
+__label__internal_info Who is the manager of the planning team?
+__label__internal_info What's the planning team manager's name?
+__label__internal_info Can you tell me who leads the planning team?
+__label__internal_info Where can I see the company cafeteria menu?
+__label__internal_info How do I check the cafeteria menu?
+__label__internal_info Where's the menu for the company cafeteria?
+__label__internal_info Can you show me today's cafeteria menu?
+__label__org_chart I want to see the HR team organizational chart
+__label__org_chart Can I view the HR team org chart?
+__label__org_chart Where can I find the HR team organizational chart?
+__label__org_chart Please show me the HR team org chart
+__label__form_request Where is the business trip expense settlement form?
+__label__form_request How do I get the business trip expense form?
+__label__form_request Where can I find the business trip expense settlement form?
+__label__form_request Can you send me the business trip expense form?
+__label__internal_info Please give me the general affairs team contact information
+__label__internal_info Can you share the general affairs team contact info?
+__label__internal_info I need the contact details for the general affairs team
+__label__internal_info Please let me know how to reach the general affairs team
+__label__org_chart Who is in the new business team?
+__label__org_chart Can you tell me the members of the new business team?
+__label__org_chart Who belongs to the new business team?
+__label__org_chart I'd like to know who's in the new business team
+__label__smalltalk I really hate Mondays
+__label__smalltalk Mondays are the worst
+__label__smalltalk I can't stand Mondays
+__label__smalltalk Mondays always feel tough
+__label__internal_info How many people are in the PR team?
+__label__internal_info What's the headcount for the PR team?
+__label__internal_info How many members are in the PR team?
+__label__internal_info Can you tell me the number of people in the PR team?
+  __label__internal_info How do I reset my company email password?
+__label__internal_info Where can I find the IT support contact?
+__label__internal_info What is the process for reporting lost office equipment?
+__label__internal_info How do I access the remote work portal?
+__label__internal_info Where can I download the company mobile app?
+__label__internal_info How do I update my personal information in the HR system?
+__label__internal_info What is the company policy on overtime meals?
+__label__internal_info How do I request a new office chair?
+__label__internal_info Where do I submit feedback about office facilities?
+__label__internal_info How do I check my annual bonus details?
+__label__org_chart Who is the supervisor for the finance team?
+__label__org_chart Which team handles internal audits?
+__label__org_chart Who manages the IT infrastructure department?
+__label__org_chart Can you show me the R&D team structure?
+__label__org_chart Who is the head of the legal department?
+__label__org_chart Which department is responsible for marketing campaigns?
+__label__org_chart Who is the assistant manager in the HR team?
+__label__org_chart Can I get the list of team leaders in the company?
+__label__org_chart Who oversees the customer service division?
+__label__org_chart Which team is in charge of product development?
+__label__form_request I need a reimbursement request form.
+__label__form_request How do I apply for a parking permit?
+__label__form_request Can you send me the travel approval form?
+__label__form_request Where can I find the IT equipment request form?
+__label__form_request I need a form for requesting remote access.
+__label__form_request How do I submit a training request form?
+__label__form_request Can I get the office supply order form?
+__label__form_request Where do I download the leave cancellation form?
+__label__form_request Please send me the expense report template.
+__label__form_request How do I request a new ID card?
+__label__smalltalk I’m looking forward to the company picnic.
+__label__smalltalk The coffee in the break room is great today.
+__label__smalltalk I hope the meeting doesn’t run too long.
+__label__smalltalk I’m excited for the team building event.
+__label__smalltalk The office feels quiet this afternoon.
+__label__smalltalk I love working with my colleagues.
+__label__smalltalk It’s nice to see everyone in person again.
+__label__smalltalk I’m planning to join the yoga class after work.
+__label__smalltalk The new office plants look refreshing.
+__label__smalltalk I’m glad it’s Friday!
+__label__internal_info Where can I find the company notices?
+__label__internal_info What's the plan for this month's team dinner?
+__label__internal_info How do I apply for the health checkup?
+__label__internal_info Can I see a list of company clubs?
+__label__internal_info What's the process for parking registration?
+__label__internal_info What's the special menu for the company cafeteria this week?
+__label__internal_info Where can I reserve a company car?
+__label__internal_info What's the policy for company mobile phones?
+__label__internal_info Please tell me the vacation policy.
+__label__internal_info When is the company-wide workshop?
+__label__internal_info How do I apply for business card production?
+__label__internal_info How do I use the company cafe coupons?
+__label__internal_info Where can I apply to change my personal information?
+__label__internal_info What are the criteria for congratulatory/condolence support?
+__label__internal_info The office temperature is too cold.
+__label__internal_info How do I use the company library?
+__label__internal_info I'm curious about the company's welfare benefits.
+__label__internal_info Where can I check my pay stub?
+__label__internal_info Does the company have a loan program?
+__label__internal_info Can I see the company phone directory?
+__label__internal_info Please tell me the IT team's extension number.
+__label__internal_info Can you recommend some good restaurants near the company?
+__label__internal_info When is the quarterly performance review?
+__label__internal_info What is the replacement cycle for company PCs?
+__label__internal_info I'm curious about the company's security regulations.
+__label__internal_info Please tell me the remote work regulations.
+__label__internal_info How do I request office supplies?
+__label__internal_info Where is the evacuation route in case of an emergency?
+__label__internal_info How do I get an access card for the company building?
+__label__internal_info How does the hot-desking system work?
+__label__internal_info Where can I get my welfare card reissued?
+__label__internal_info Is there a program to encourage using annual leave?
+__label__internal_info I want to check the list of people eligible for health checkups.
+__label__internal_info Please tell me this month's birthday list.
+__label__internal_info How do I reserve the company auditorium?
+__label__internal_info My company email storage is full.
+__label__internal_info What is the deadline for submitting a vacation plan?
+__label__internal_info Please give me some guidance on using the parking lot.
+__label__internal_info How do I post on the company bulletin board?
+__label__internal_info What is the procedure for handling damaged supplies?
+__label__internal_info How do I apply for maternity leave salary?
+__label__internal_info Where can I apply to use paid software?
+__label__internal_info How do I apply for company club support funds?
+__label__internal_info I want to change my seat in the office.
+__label__internal_info Please tell me when holiday bonuses are paid.
+__label__internal_info Where do I get meal tickets for the company cafeteria?
+__label__internal_info I want to change my company extension number.
+__label__internal_info There's no toilet paper in the restroom.
+__label__internal_info The coffee in the pantry is out.
+__label__internal_info How do I apply to use a company car?
+__label__org_chart What teams are in the planning department?
+__label__org_chart What are the positions of the development team members?
+__label__org_chart Please tell me the departments of the new hires.
+__label__org_chart I'm curious about the marketing team's organizational structure.
+__label__org_chart Please tell me the contact information of our team leader.
+__label__org_chart Can I see the list of all company employees?
+__label__org_chart Please give me a list of the work assignments for each department.
+__label__org_chart How is the work divided within our team?
+__label__org_chart What departments are under the general manager?
+__label__org_chart Who is in charge of budget management in the accounting team?
+__label__org_chart Please tell me the name of the overseas sales team representative.
+__label__org_chart Who are the members of the new project TF team?
+__label__org_chart Who works in the HR team?
+__label__org_chart Please give me a list of the planning team members.
+__label__org_chart What kind of work does the design team do?
+__label__org_chart I need the contact information of the sales division managers.
+__label__org_chart Please give me the list of customer support team members.
+__label__org_chart Where is the new business team located?
+__label__org_chart Please tell me the contact information of the QA team representative.
+__label__org_chart Can I see a list of the number of people in each department?
+__label__org_chart What kind of work does the general affairs team handle?
+__label__org_chart Please tell me the contact information of the PR team representative.
+__label__org_chart Who should I contact for inter-departmental collaboration?
+__label__org_chart Please tell me the positions of the legal team members.
+__label__org_chart Can I see the executive organizational chart?
+__label__org_chart What is the company's structure?
+__label__org_chart Please tell me the executive in charge of each division.
+__label__org_chart I need a list of the team leaders' contact information.
+__label__org_chart Can I see the updated version of the organizational chart?
+__label__org_chart What is the name of the planning team manager?
+__label__org_chart Did a new employee join our department?
+__label__org_chart Please tell me the contact information of the finance team representative.
+__label__org_chart What departments are part of the management support division?
+__label__org_chart I need the work division chart for each department.
+__label__org_chart I want to see the entire company organizational chart.
+__label__org_chart What are the individual work assignments of the team members?
+__label__org_chart How many people are in the development team?
+__label__org_chart I need a list of the directors.
+__label__org_chart Please give me a list of the new business team members.
+__label__org_chart Who is the accounting team representative?
+__label__org_chart Who is the design team manager?
+__label__org_chart Please show me the R&D team's organizational chart.
+__label__org_chart How many employees are in the production team?
+__label__org_chart Who is in charge of performance evaluations?
+__label__org_chart Please tell me the contact information of the technical support team.
+__label__org_chart Which department provides legal advice?
+__label__org_chart Please give me the contact information of the IT team members.
+__label__org_chart I'm curious about the name of the materials team representative.
+__label__org_chart Who is the PR team manager?
+__label__org_chart Please give me the list of the strategic planning team members.
+__label__form_request Please send me the leave application form.
+__label__form_request Please give me the annual leave application form.
+__label__form_request Where is the business trip expense settlement document form?
+__label__form_request How do I apply for an employment certificate?
+__label__form_request Please give me the business card production application form.
+__label__form_request I need the corporate card usage application form.
+__label__form_request Please send me the expense report form.
+__label__form_request Where is the office supply request form?
+__label__form_request Please give me the training completion certificate form.
+__label__form_request I need the welfare points usage application form.
+__label__form_request Please send me the certificate issuance application form.
+__label__form_request Please give me the retirement payment settlement form.
+__label__form_request Where can I get the company training application form?
+__label__form_request Please send me the project proposal template.
+__label__form_request I need the remote work application form.
+__label__form_request Please tell me the year-end tax settlement document form.
+__label__form_request Please give me the maternity leave application form.
+__label__form_request Where is the sick leave application form?
+__label__form_request I need the company award application form.
+__label__form_request Where can I get the company official document form?
+__label__form_request Please give me the remote work application form.
+__label__form_request Where is the congratulatory/condolence support application form?
+__label__form_request Please give me the vehicle log form.
+__label__form_request I need the new employee ID card issuance application form.
+__label__form_request Please send me the business trip report form.
+__label__form_request Where is the company club support fund application form?
+__label__form_request Please give me the leave of absence application form.
+__label__form_request I need a new product development plan template.
+__label__form_request Where can I get the corporate card usage report form?
+__label__form_request Please send me the security pledge form.
+__label__form_request I need the recruitment-related document forms.
+__label__form_request Where is the parking registration application form?
+__label__form_request Please give me the document submission confirmation form.
+__label__form_request I need the equipment rental application form.
+__label__form_request Where is the company network access application form?
+__label__form_request Please give me the work material sharing consent form.
+__label__form_request I need the personal information collection consent form.
+__label__form_request Where is the team dinner expense application form?
+__label__form_request Please give me the new vendor registration application form.
+__label__form_request I need the asset management application form.
+__label__form_request Where is the photo submission form?
+__label__form_request Please give me the new employee onboarding checklist form.
+__label__form_request Please send me the contract template.
+__label__form_request Where is the external meeting application form?
+__label__form_request Please give me the department transfer application form.
+__label__form_request I need the resignation application form.
+__label__form_request Where can I get the salary account change application form?
+__label__form_request Please give me the business card production application form.
+__label__form_request Please send me the welfare points usage application form.
+__label__form_request I need the annual leave application form.
+__label__smalltalk What should we have for lunch today?
+__label__smalltalk The weather is so nice these days.
+__label__smalltalk I'm tired from working overtime yesterday.
+__label__smalltalk What are you planning to do this weekend?
+__label__smalltalk Monday mornings are always tough.
+__label__smalltalk I want to have a cup of coffee.
+__label__smalltalk I wish lunchtime would come soon.
+__label__smalltalk There are too many meetings this week.
+__label__smalltalk I love your outfit today.
+__label__smalltalk What did you have for lunch?
+__label__smalltalk I want to go home.
+__label__smalltalk Let's hang in there today!
+__label__smalltalk I'm so happy it's Friday tomorrow.
+__label__smalltalk Be careful not to catch a cold.
+__label__smalltalk I'm so busy with work these days.
+__label__smalltalk It's finally the weekend.
+__label__smalltalk Are there any good restaurants near the company?
+__label__smalltalk What are you doing after work?
+__label__smalltalk The project is finally over!
+__label__smalltalk Has the menu for the team dinner been decided?
+__label__smalltalk The traffic was so bad on the way to work.
+__label__smalltalk Did you watch the game yesterday?
+__label__smalltalk It's lunchtime!
+__label__smalltalk The weather is really hot today.
+__label__smalltalk It's supposed to rain on the weekend.
+__label__smalltalk I'm tired and sleepy.
+__label__smalltalk The meeting went well today.
+__label__smalltalk I want to eat something delicious.
+__label__smalltalk The office is so dry.
+__label__smalltalk I'm looking forward to tomorrow.
+__label__smalltalk It's finally Friday!
+__label__smalltalk What should we have for dinner tonight?
+__label__smalltalk Has everyone decided on their lunch menu?
+__label__smalltalk The company atmosphere is really good.
+__label__smalltalk I started working out recently.
+__label__smalltalk Hang in there!
+__label__smalltalk I have a lot of work today, so I think I'll be working overtime.
+__label__smalltalk Have a good day!
+__label__smalltalk The weather is really cold today.
+__label__smalltalk Let's power through until we leave work!
+__label__smalltalk It's already lunchtime.
+__label__smalltalk Please recommend lunch.
+__label__smalltalk I should go see a movie this weekend.
+__label__smalltalk What do you want to eat for lunch?
+__label__smalltalk I ate something delicious last night.
+__label__smalltalk I'm so busy these days.
+__label__smalltalk Have a good weekend.
+__label__smalltalk What's on the lunch menu today?
+__label__smalltalk I'm going on vacation next week.
+__label__smalltalk Do you have plans for tonight?
+__label__internal_info How do I increase my company email storage?
+__label__internal_info How do we settle lunch expenses with team members?
+__label__internal_info I'm curious about how to use the company's welfare shopping mall.
+__label__internal_info Please tell me the application procedure for congratulatory/condolence support.
+__label__internal_info Where can I check the balance of my company welfare card?
+__label__internal_info Please recommend some good restaurants near the office.
+__label__internal_info What is the deadline for applying for leave?
+__label__internal_info Is overtime meal allowance paid automatically?
+__label__internal_info Which hospital is designated for the company health checkup?
+__label__internal_info My laptop suddenly won't turn on.
+__label__internal_info Please tell me how to unlock my company system account.
+__label__internal_info What's the procedure for handling damaged office supplies?
+__label__internal_info Where do I reserve a meeting room?
+__label__internal_info I'm curious about how to use the company library.
+__label__internal_info What's the training schedule for new hires?
+__label__internal_info I want to check this month's pay stub.
+__label__internal_info Where do I apply to use the company parking lot?
+__label__internal_info The office temperature is too cold, can it be adjusted?
+__label__internal_info What can I purchase with my welfare points?
+__label__internal_info Where can I find the company security pledge?
+__label__internal_info I want to check the company cafeteria menu in advance.
+__label__internal_info How do I apply to change my personal information?
+__label__internal_info Please tell me the procedure for purchasing business software.
+__label__internal_info I'm curious about how to get a lost access card reissued.
+__label__internal_info Please tell me how to apply for company club support funds.
+__label__internal_info Where can I see my corporate card usage history?
+__label__internal_info What are the operating hours of the company cafe?
+__label__internal_info I can't connect to the company wifi.
+__label__internal_info Who should I contact to apply for business card production?
+__label__internal_info I want to change my company extension number.
+__label__internal_info I'm curious about the policy for using paid fonts.
+__label__internal_info When is payday?
+__label__internal_info Where do I apply for annual leave?
+__label__internal_info Please tell me how to apply for a company car.
+__label__internal_info Please tell me the IT team's extension number.
+__label__internal_info Who should I contact when my PC breaks down?
+__label__internal_info What are the working hours?
+__label__internal_info I'm curious about the company's expense policy.
+__label__internal_info How do I book accommodation for a business trip?
+__label__internal_info Please tell me the company network password.
+__label__internal_info I'm curious about how to use the company messenger.
+__label__internal_info I need a business laptop.
+__label__internal_info Please tell me how to back up my company email.
+__label__internal_info The office lighting is too dim.
+__label__internal_info Has the water dispenser filter been changed in the lounge?
+__label__internal_info I'm curious about the company business card design.
+__label__internal_info Where is the lost and found center?
+__label__internal_info What documents are needed for a congratulatory/condolence event?
+__label__internal_info I'm curious about the documents needed for business trip expense settlement.
+__label__internal_info Where can I see my salary agreement?
+__label__internal_info Please tell me the approval process for remote work applications.
+__label__internal_info How do I check the inventory of office supplies?
+__label__internal_info Where do I apply to purchase company stocks?
+__label__internal_info How do I settle expenses for a team dinner?
+__label__internal_info Where can I see my leave usage history?
+__label__internal_info What are the operating hours of the company gym?
+__label__internal_info The network is unstable during work.
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Please tell me the company shuttle bus route.
+__label__internal_info The projector in the meeting room isn't working.
+__label__internal_info I'm curious about the application process for a company mobile phone.
+__label__internal_info Where can I get an employment certificate issued?
+__label__internal_info When is the office cleaning done?
+__label__internal_info When do welfare points expire?
+__label__internal_info Please tell me how to create a company email account.
+__label__internal_info How do I check the company's expense report?
+__label__internal_info I'm curious about the company cafeteria's operating hours.
+__label__internal_info Please tell me the maternity and paternity leave regulations.
+__label__internal_info Please tell me the company commuter bus route information.
+__label__internal_info How do I report after returning from a business trip?
+__label__internal_info Please tell me the office heating and cooling hours.
+__label__internal_info I'm curious about the list of training programs supported by the company.
+__label__internal_info Please tell me the URL for the remote work portal.
+__label__internal_info There's no printer paper, where do I get more?
+__label__internal_info What time is the start of the workday?
+__label__internal_info What are the criteria for using a monthly leave day?
+__label__internal_info Please tell me the team manager's business trip schedule.
+__label__internal_info Where can I see the company event schedule?
+__label__internal_info How do I apply for overtime?
+__label__form_request Please send me the leave application form.
+__label__form_request I need the annual leave application form.
+__label__form_request Where are the business trip expense settlement documents?
+__label__form_request How do I apply for an employment certificate?
+__label__form_request Please give me the business card production application form.
+__label__form_request I need the corporate card usage application form.
+__label__form_request Please send me the expense report form.
+__label__form_request Where is the office supply request form?
+__label__form_request Please give me the training completion certificate form.
+__label__form_request I need the welfare points usage application form.
+__label__form_request Please send me the certificate issuance application form.
+__label__form_request Please give me the retirement payment settlement form.
+__label__form_request Where can I get the company training application form?
+__label__form_request Please send me the project proposal template.
+__label__form_request I need the remote work application form.
+__label__form_request Please tell me the year-end tax settlement document form.
+__label__form_request Please give me the maternity leave application form.
+__label__form_request Where is the sick leave application form?
+__label__form_request I need the company award application form.
+__label__form_request Where can I get the company official document form?
+__label__form_request Please give me the remote work application form.
+__label__form_request Where is the congratulatory/condolence support application form?
+__label__form_request Please give me the vehicle log form.
+__label__form_request I need the new employee ID card issuance application form.
+__label__form_request Please send me the business trip report form.
+__label__form_request Where is the company club support fund application form?
+__label__form_request Please give me the leave of absence application form.
+__label__form_request I need a new product development plan template.
+__label__form_request Where can I get the corporate card usage report form?
+__label__form_request Please send me the security pledge form.
+__label__form_request I need the recruitment-related document forms.
+__label__form_request Where is the parking registration application form?
+__label__form_request Please give me the document submission confirmation form.
+__label__form_request I need the equipment rental application form.
+__label__form_request Where is the company network access application form?
+__label__form_request Please give me the work material sharing consent form.
+__label__form_request I need the personal information collection consent form.
+__label__form_request Where is the team dinner expense application form?
+__label__form_request Please give me the new vendor registration application form.
+__label__form_request I need the asset management application form.
+__label__form_request Where is the photo submission form?
+__label__form_request Please give me the new employee onboarding checklist form.
+__label__form_request Please send me the contract template.
+__label__form_request Where is the external meeting application form?
+__label__form_request Please give me the department transfer application form.
+__label__form_request I need the resignation application form.
+__label__form_request Where can I get the salary account change application form?
+__label__form_request Please give me the business card production application form.
+__label__form_request Please send me the welfare points usage application form.
+__label__form_request I need the annual leave application form.
+__label__form_request Please give me the company car usage application form.
+__label__form_request I need the project completion report template.
+__label__form_request Where is the new system access application form?
+__label__form_request Please give me the technical document viewing application form.
+__label__form_request I need the development equipment purchase application form.
+__label__form_request Where can I get the external training participation application form?
+__label__form_request Please send me the performance review form.
+__label__form_request Please give me the retirement pension management application form.
+__label__form_request I need the partnership proposal template.
+__label__form_request Where is the internship participation application form?
+__label__form_request Please give me the new hire recommendation form.
+__label__form_request I need the non-disclosure agreement form.
+__label__form_request Where is the external lecture application form?
+__label__form_request Please give me the personal information leakage report form.
+__label__form_request I need the company event participation application form.
+__label__form_request Please give me the company bulletin board usage application form.
+__label__form_request Where is the company extension number change application form?
+__label__form_request I need the company welfare facility usage application form.
+__label__form_request Please send me the project expense settlement form.
+__label__form_request Please give me the company club activity report form.
+__label__form_request Where is the company building access card application form?
+__label__form_request I need the vehicle management application form.
+__label__form_request Please give me the personal item entry application form.
+__label__form_request I need the company shared account usage application form.
+__label__form_request Please send me the attendance/leave record form.
+__label__form_request Please give me the team meeting minutes form.
+__label__form_request Where is the new software implementation application form?
+__label__form_request I need the personal equipment security check application form.
+__label__form_request Please give me the employee referral reward application form.
+__label__org_chart I'm curious about the development team members.
+__label__org_chart Please tell me the marketing team manager's contact information.
+__label__org_chart Who is in the planning team?
+__label__org_chart Can I get the sales department employee list?
+__label__org_chart I want to see the HR team organizational chart.
+__label__org_chart I need the IT team representative's contact information.
+__label__org_chart I want to know which departments the new employees belong to.
+__label__org_chart Can I know the number of people in each department?
+__label__org_chart Which team is Manager Lee Sanghoon in?
+__label__org_chart How many people are in the PR team?
+__label__org_chart I want to know who is in the design team.
+__label__org_chart Who is the sales team manager?
+__label__org_chart Please give me the QA team employee list.
+__label__org_chart Please tell me the accounting team organizational structure.
+__label__org_chart I need the department heads list.
+__label__org_chart Can I see the executive organizational chart?
+__label__org_chart Who is in the new business team?
+__label__org_chart Who is the strategic planning office representative?
+__label__org_chart I want to know the organizational structure by business unit.
+__label__org_chart I need the management department organizational chart.
+__label__org_chart Please tell me the marketing team personnel by position.
+__label__org_chart Who is our team manager in the organizational chart?
+__label__org_chart Please explain the company organizational structure.
+__label__org_chart I want to know the work division by department.
+__label__org_chart I want to check the executive list.
+__label__org_chart Please tell me which departments the new employees are assigned to.
+__label__org_chart Who are the R&D team members?
+__label__org_chart Please give me the corporate research institute organizational chart.
+__label__org_chart I need the contact information of each team manager.
+__label__org_chart I want to know the total number of employees in the company.
+__label__org_chart Where can I see the organizational chart?
+__label__org_chart Please give me the customer support team member contacts.
+__label__org_chart Who is in charge of the product planning team?
+__label__org_chart Please tell me the legal team lawyer's contact information.
+__label__org_chart I'm curious about the audit team organizational structure.
+__label__org_chart I want to check the purchasing team representative.
+__label__org_chart I need the logistics team employee list.
+__label__org_chart Please show me the product development team organizational chart.
+__label__org_chart I want to know the affiliate organizational structure.
+__label__org_chart Who is the new employee mentor?
+__label__org_chart Who are the budget managers for each department?
+__label__org_chart I want to check the organizational chart by branch.
+__label__org_chart Please tell me the new project team members.
+__label__org_chart Please give me the list of managers and above in each department.
+__label__org_chart Which department handles partner companies?
+__label__org_chart Can I see the overseas subsidiary organizational chart?
+__label__org_chart I want to check the TF team members.
+__label__org_chart Please tell me the vice presidents' responsibilities.
+__label__org_chart I want to know the quality management team organizational structure.
+__label__org_chart I need the security team representative's contact information.
+__label__org_chart I want to check the consulting team organizational chart.
+__label__org_chart Who is in charge of the corporate culture team?
+__label__org_chart Please tell me the customer service team organizational structure.
+__label__org_chart I want to know the export team employee contacts.
+__label__org_chart Who is the investment development team manager?
+__label__org_chart Please tell me the new business development team composition.
+__label__org_chart Who is the patent team patent attorney?
+__label__org_chart Please give me the global business division organizational chart.
+__label__org_chart Please give me the business strategy team representative's contact.
+__label__org_chart I want to know who is in the budget planning team.
+__label__org_chart I'm curious about the information security team organizational structure.
+__label__org_chart Who is the assistant manager in the HR team?
+__label__org_chart Can I see the entire company employee list?
+__label__org_chart Has the organizational chart been updated after department transfer?
+__label__org_chart I need the complete organizational chart including affiliates.
+__label__org_chart Is there an integrated employee contact list?
+__label__org_chart I want to check the work division for each team.
+__label__org_chart Please tell me which departments the new hires belong to.
+__label__org_chart Please show me the changed structure after organizational restructuring.
+__label__org_chart Can I see the organizational chart by division separately?
+__label__org_chart I want to know the personnel and composition by team.
+__label__org_chart I want to check the supervisor approval line.
+__label__org_chart Please tell me the inter-departmental collaboration structure.
+__label__org_chart Please show me the organizational chart classified by position.
+__label__org_chart Who is the supervisor for the finance team?
+__label__org_chart Which team handles internal audits?
+__label__org_chart Who manages the IT infrastructure department?
+__label__org_chart Can you show me the R&D team structure?
+__label__org_chart Who is the head of the legal department?
+__label__org_chart Which department is responsible for marketing campaigns?
+__label__org_chart Who oversees the customer service division?
+__label__internal_info How do I reset my company email password?
+__label__internal_info Where can I find the IT support contact?
+__label__internal_info What is the process for reporting lost office equipment?
+__label__internal_info How do I access the remote work portal?
+__label__internal_info Where can I download the company mobile app?
+__label__internal_info How do I update my personal information in the HR system?
+__label__internal_info What is the company policy on overtime meals?
+__label__internal_info How do I request a new office chair?
+__label__internal_info Where do I submit feedback about office facilities?
+__label__internal_info How do I check my annual bonus details?
+__label__org_chart Who is the supervisor for the finance team?
+__label__org_chart Which team handles internal audits?
+__label__org_chart Who manages the IT infrastructure department?
+__label__org_chart Can you show me the R&D team structure?
+__label__org_chart Who is the head of the legal department?
+__label__org_chart Which department is responsible for marketing campaigns?
+__label__org_chart Who is the assistant manager in the HR team?
+__label__org_chart Can I get the list of team leaders in the company?
+__label__org_chart Who oversees the customer service division?
+__label__org_chart Which team is in charge of product development?
+__label__form_request I need a reimbursement request form.
+__label__form_request How do I apply for a parking permit?
+__label__form_request Can you send me the travel approval form?
+__label__form_request Where can I find the IT equipment request form?
+__label__form_request I need a form for requesting remote access.
+__label__form_request How do I submit a training request form?
+__label__form_request Can I get the office supply order form?
+__label__form_request Where do I download the leave cancellation form?
+__label__form_request Please send me the expense report template.
+__label__form_request How do I request a new ID card?
+__label__smalltalk I’m looking forward to the company picnic.
+__label__smalltalk The coffee in the break room is great today.
+__label__smalltalk I hope the meeting doesn’t run too long.
+__label__smalltalk I’m excited for the team building event.
+__label__smalltalk The office feels quiet this afternoon.
+__label__smalltalk I love working with my colleagues.
+__label__smalltalk It’s nice to see everyone in person again.
+__label__smalltalk I’m planning to join the yoga class after work.
+__label__smalltalk The new office plants look refreshing.
+__label__smalltalk I’m glad it’s Friday!
+__label__internal_info Where can I find the company notices?
+__label__internal_info What's the plan for this month's team dinner?
+__label__internal_info How do I apply for the health checkup?
+__label__internal_info Can I see a list of company clubs?
+__label__internal_info What's the process for parking registration?
+__label__internal_info What's the special menu for the company cafeteria this week?
+__label__internal_info Where can I reserve a company car?
+__label__internal_info What's the policy for company mobile phones?
+__label__internal_info Please tell me the vacation policy.
+__label__internal_info When is the company-wide workshop?
+__label__internal_info How do I apply for business card production?
+__label__internal_info How do I use the company cafe coupons?
+__label__internal_info Where can I apply to change my personal information?
+__label__internal_info What are the criteria for congratulatory/condolence support?
+__label__internal_info The office temperature is too cold.
+__label__internal_info How do I use the company library?
+__label__internal_info I'm curious about the company's welfare benefits.
+__label__internal_info Where can I check my pay stub?
+__label__internal_info Does the company have a loan program?
+__label__internal_info Can I see the company phone directory?
+__label__internal_info Please tell me the IT team's extension number.
+__label__internal_info Can you recommend some good restaurants near the company?
+__label__internal_info When is the quarterly performance review?
+__label__internal_info What is the replacement cycle for company PCs?
+__label__internal_info I'm curious about the company's security regulations.
+__label__internal_info Please tell me the remote work regulations.
+__label__internal_info How do I request office supplies?
+__label__internal_info Where is the evacuation route in case of an emergency?
+__label__internal_info How do I get an access card for the company building?
+__label__internal_info How does the hot-desking system work?
+__label__internal_info Where can I get my welfare card reissued?
+__label__internal_info Is there a program to encourage using annual leave?
+__label__internal_info I want to check the list of people eligible for health checkups.
+__label__internal_info Please tell me this month's birthday list.
+__label__internal_info How do I reserve the company auditorium?
+__label__internal_info My company email storage is full.
+__label__internal_info What is the deadline for submitting a vacation plan?
+__label__internal_info Please give me some guidance on using the parking lot.
+__label__internal_info How do I post on the company bulletin board?
+__label__internal_info What is the procedure for handling damaged supplies?
+__label__internal_info How do I apply for maternity leave salary?
+__label__internal_info Where can I apply to use paid software?
+__label__internal_info How do I apply for company club support funds?
+__label__internal_info I want to change my seat in the office.
+__label__internal_info Please tell me when holiday bonuses are paid.
+__label__internal_info Where do I get meal tickets for the company cafeteria?
+__label__internal_info I want to change my company extension number.
+__label__internal_info There's no toilet paper in the restroom.
+__label__internal_info The coffee in the pantry is out.
+__label__internal_info How do I apply to use a company car?
+__label__org_chart What teams are in the planning department?
+__label__org_chart What are the positions of the development team members?
+__label__org_chart Please tell me the departments of the new hires.
+__label__org_chart I'm curious about the marketing team's organizational structure.
+__label__org_chart Please tell me the contact information of our team leader.
+__label__org_chart Can I see the list of all company employees?
+__label__org_chart Please give me a list of the work assignments for each department.
+__label__org_chart How is the work divided within our team?
+__label__org_chart What departments are under the general manager?
+__label__org_chart Who is in charge of budget management in the accounting team?
+__label__org_chart Please tell me the name of the overseas sales team representative.
+__label__org_chart Who are the members of the new project TF team?
+__label__org_chart Who works in the HR team?
+__label__org_chart Please give me a list of the planning team members.
+__label__org_chart What kind of work does the design team do?
+__label__org_chart I need the contact information of the sales division managers.
+__label__org_chart Please give me the list of customer support team members.
+__label__org_chart Where is the new business team located?
+__label__org_chart Please tell me the contact information of the QA team representative.
+__label__org_chart Can I see a list of the number of people in each department?
+__label__org_chart What kind of work does the general affairs team handle?
+__label__org_chart Please tell me the contact information of the PR team representative.
+__label__org_chart Who should I contact for inter-departmental collaboration?
+__label__org_chart Please tell me the positions of the legal team members.
+__label__org_chart Can I see the executive organizational chart?
+__label__org_chart What is the company's structure?
+__label__org_chart Please tell me the executive in charge of each division.
+__label__org_chart I need a list of the team leaders' contact information.
+__label__org_chart Can I see the updated version of the organizational chart?
+__label__org_chart What is the name of the planning team manager?
+__label__org_chart Did a new employee join our department?
+__label__org_chart Please tell me the contact information of the finance team representative.
+__label__org_chart What departments are part of the management support division?
+__label__org_chart I need the work division chart for each department.
+__label__org_chart I want to see the entire company organizational chart.
+__label__org_chart What are the individual work assignments of the team members?
+__label__org_chart How many people are in the development team?
+__label__org_chart I need a list of the directors.
+__label__org_chart Please give me a list of the new business team members.
+__label__org_chart Who is the accounting team representative?
+__label__org_chart Who is the design team manager?
+__label__org_chart Please show me the R&D team's organizational chart.
+__label__org_chart How many employees are in the production team?
+__label__org_chart Who is in charge of performance evaluations?
+__label__org_chart Please tell me the contact information of the technical support team.
+__label__org_chart Which department provides legal advice?
+__label__org_chart Please give me the contact information of the IT team members.
+__label__org_chart I'm curious about the name of the materials team representative.
+__label__org_chart Who is the PR team manager?
+__label__org_chart Please give me the list of the strategic planning team members.
+__label__form_request Please send me the leave application form.
+__label__form_request Please give me the annual leave application form.
+__label__form_request Where is the business trip expense settlement document form?
+__label__form_request How do I apply for an employment certificate?
+__label__form_request Please give me the business card production application form.
+__label__form_request I need the corporate card usage application form.
+__label__form_request Please send me the expense report form.
+__label__form_request Where is the office supply request form?
+__label__form_request Please give me the training completion certificate form.
+__label__form_request I need the welfare points usage application form.
+__label__form_request Please send me the certificate issuance application form.
+__label__form_request Please give me the retirement payment settlement form.
+__label__form_request Where can I get the company training application form?
+__label__form_request Please send me the project proposal template.
+__label__form_request I need the remote work application form.
+__label__form_request Please tell me the year-end tax settlement document form.
+__label__form_request Please give me the maternity leave application form.
+__label__form_request Where is the sick leave application form?
+__label__form_request I need the company award application form.
+__label__form_request Where can I get the company official document form?
+__label__form_request Please give me the remote work application form.
+__label__form_request Where is the congratulatory/condolence support application form?
+__label__form_request Please give me the vehicle log form.
+__label__form_request I need the new employee ID card issuance application form.
+__label__form_request Please send me the business trip report form.
+__label__form_request Where is the company club support fund application form?
+__label__form_request Please give me the leave of absence application form.
+__label__form_request I need a new product development plan template.
+__label__form_request Where can I get the corporate card usage report form?
+__label__form_request Please send me the security pledge form.
+__label__form_request I need the recruitment-related document forms.
+__label__form_request Where is the parking registration application form?
+__label__form_request Please give me the document submission confirmation form.
+__label__form_request I need the equipment rental application form.
+__label__form_request Where is the company network access application form?
+__label__form_request Please give me the work material sharing consent form.
+__label__form_request I need the personal information collection consent form.
+__label__form_request Where is the team dinner expense application form?
+__label__form_request Please give me the new vendor registration application form.
+__label__form_request I need the asset management application form.
+__label__form_request Where is the photo submission form?
+__label__form_request Please give me the new employee onboarding checklist form.
+__label__form_request Please send me the contract template.
+__label__form_request Where is the external meeting application form?
+__label__form_request Please give me the department transfer application form.
+__label__form_request I need the resignation application form.
+__label__form_request Where can I get the salary account change application form?
+__label__form_request Please give me the business card production application form.
+__label__form_request Please send me the welfare points usage application form.
+__label__form_request I need the annual leave application form.
+__label__smalltalk What should we have for lunch today?
+__label__smalltalk The weather is so nice these days.
+__label__smalltalk I'm tired from working overtime yesterday.
+__label__smalltalk What are you planning to do this weekend?
+__label__smalltalk Monday mornings are always tough.
+__label__smalltalk I want to have a cup of coffee.
+__label__smalltalk I wish lunchtime would come soon.
+__label__smalltalk There are too many meetings this week.
+__label__smalltalk I love your outfit today.
+__label__smalltalk What did you have for lunch?
+__label__smalltalk I want to go home.
+__label__smalltalk Let's hang in there today!
+__label__smalltalk I'm so happy it's Friday tomorrow.
+__label__smalltalk Be careful not to catch a cold.
+__label__smalltalk I'm so busy with work these days.
+__label__smalltalk It's finally the weekend.
+__label__smalltalk Are there any good restaurants near the company?
+__label__smalltalk What are you doing after work?
+__label__smalltalk The project is finally over!
+__label__smalltalk Has the menu for the team dinner been decided?
+__label__smalltalk The traffic was so bad on the way to work.
+__label__smalltalk Did you watch the game yesterday?
+__label__smalltalk It's lunchtime!
+__label__smalltalk The weather is really hot today.
+__label__smalltalk It's supposed to rain on the weekend.
+__label__smalltalk I'm tired and sleepy.
+__label__smalltalk The meeting went well today.
+__label__smalltalk I want to eat something delicious.
+__label__smalltalk The office is so dry.
+__label__smalltalk I'm looking forward to tomorrow.
+__label__smalltalk It's finally Friday!
+__label__smalltalk What should we have for dinner tonight?
+__label__smalltalk Has everyone decided on their lunch menu?
+__label__smalltalk The company atmosphere is really good.
+__label__smalltalk I started working out recently.
+__label__smalltalk Hang in there!
+__label__smalltalk I have a lot of work today, so I think I'll be working overtime.
+__label__smalltalk Have a good day!
+__label__smalltalk The weather is really cold today.
+__label__smalltalk Let's power through until we leave work!
+__label__smalltalk It's already lunchtime.
+__label__smalltalk Please recommend lunch.
+__label__smalltalk I should go see a movie this weekend.
+__label__smalltalk What do you want to eat for lunch?
+__label__smalltalk I ate something delicious last night.
+__label__smalltalk I'm so busy these days.
+__label__smalltalk Have a good weekend.
+__label__smalltalk What's on the lunch menu today?
+__label__smalltalk I'm going on vacation next week.
+__label__smalltalk Do you have plans for tonight?
+__label__internal_info How do I increase my company email storage?
+__label__internal_info How do we settle lunch expenses with team members?
+__label__internal_info I'm curious about how to use the company's welfare shopping mall.
+__label__internal_info Please tell me the application procedure for congratulatory/condolence support.
+__label__internal_info Where can I check the balance of my company welfare card?
+__label__internal_info Please recommend some good restaurants near the office.
+__label__internal_info What is the deadline for applying for leave?
+__label__internal_info Is overtime meal allowance paid automatically?
+__label__internal_info Which hospital is designated for the company health checkup?
+__label__internal_info My laptop suddenly won't turn on.
+__label__internal_info Please tell me how to unlock my company system account.
+__label__internal_info What's the procedure for handling damaged office supplies?
+__label__internal_info Where do I reserve a meeting room?
+__label__internal_info I'm curious about how to use the company library.
+__label__internal_info What's the training schedule for new hires?
+__label__internal_info I want to check this month's pay stub.
+__label__internal_info Where do I apply to use the company parking lot?
+__label__internal_info The office temperature is too cold, can it be adjusted?
+__label__internal_info What can I purchase with my welfare points?
+__label__internal_info Where can I find the company security pledge?
+__label__internal_info I want to check the company cafeteria menu in advance.
+__label__internal_info How do I apply to change my personal information?
+__label__internal_info Please tell me the procedure for purchasing business software.
+__label__internal_info I'm curious about how to get a lost access card reissued.
+__label__internal_info Please tell me how to apply for company club support funds.
+__label__internal_info Where can I see my corporate card usage history?
+__label__internal_info What are the operating hours of the company cafe?
+__label__internal_info I can't connect to the company wifi.
+__label__internal_info Who should I contact to apply for business card production?
+__label__internal_info I want to change my company extension number.
+__label__internal_info I'm curious about the policy for using paid fonts.
+__label__internal_info When is payday?
+__label__internal_info Where do I apply for annual leave?
+__label__internal_info Please tell me how to apply for a company car.
+__label__internal_info Please tell me the IT team's extension number.
+__label__internal_info Who should I contact when my PC breaks down?
+__label__internal_info What are the working hours?
+__label__internal_info I'm curious about the company's expense policy.
+__label__internal_info How do I book accommodation for a business trip?
+__label__internal_info Please tell me the company network password.
+__label__internal_info I'm curious about how to use the company messenger.
+__label__internal_info I need a business laptop.
+__label__internal_info Please tell me how to back up my company email.
+__label__internal_info The office lighting is too dim.
+__label__internal_info Has the water dispenser filter been changed in the lounge?
+__label__internal_info I'm curious about the company business card design.
+__label__internal_info Where is the lost and found center?
+__label__internal_info What documents are needed for a congratulatory/condolence event?
+__label__internal_info I'm curious about the documents needed for business trip expense settlement.
+__label__internal_info Where can I see my salary agreement?
+__label__internal_info Please tell me the approval process for remote work applications.
+__label__internal_info How do I check the inventory of office supplies?
+__label__internal_info Where do I apply to purchase company stocks?
+__label__internal_info How do I settle expenses for a team dinner?
+__label__internal_info Where can I see my leave usage history?
+__label__internal_info What are the operating hours of the company gym?
+__label__internal_info The network is unstable during work.
+__label__internal_info Is the team manager on vacation?
+__label__internal_info Please tell me the company shuttle bus route.
+__label__internal_info The projector in the meeting room isn't working.
+__label__internal_info I'm curious about the application process for a company mobile phone.
+__label__internal_info Where can I get an employment certificate issued?
+__label__internal_info When is the office cleaning done?
+__label__internal_info When do welfare points expire?
+__label__internal_info Please tell me how to create a company email account.
+__label__internal_info How do I check the company's expense report?
+__label__internal_info I'm curious about the company cafeteria's operating hours.
+__label__internal_info Please tell me the maternity and paternity leave regulations.
+__label__internal_info Please tell me the company commuter bus route information.
+__label__internal_info How do I report after returning from a business trip?
+__label__internal_info Please tell me the office heating and cooling hours.
+__label__internal_info I'm curious about the list of training programs supported by the company.
+__label__internal_info Please tell me the URL for the remote work portal.
+__label__internal_info There's no printer paper, where do I get more?
+__label__internal_info What time is the start of the workday?
+__label__internal_info What are the criteria for using a monthly leave day?
+__label__internal_info Please tell me the team manager's business trip schedule.
+__label__internal_info Where can I see the company event schedule?
+__label__internal_info How do I apply for overtime?
+__label__form_request Please send me the leave application form.
+__label__form_request I need the annual leave application form.
+__label__form_request Where are the business trip expense settlement documents?
+__label__form_request How do I apply for an employment certificate?
+__label__form_request Please give me the business card production application form.
+__label__form_request I need the corporate card usage application form.
+__label__form_request Please send me the expense report form.
+__label__form_request Where is the office supply request form?
+__label__form_request Please give me the training completion certificate form.
+__label__form_request I need the welfare points usage application form.
+__label__form_request Please send me the certificate issuance application form.
+__label__form_request Please give me the retirement payment settlement form.
+__label__form_request Where can I get the company training application form?
+__label__form_request Please send me the project proposal template.
+__label__form_request I need the remote work application form.
+__label__form_request Please tell me the year-end tax settlement document form.
+__label__form_request Please give me the maternity leave application form.
+__label__form_request Where is the sick leave application form?
+__label__form_request I need the company award application form.
+__label__form_request Where can I get the company official document form?
+__label__form_request Please give me the remote work application form.
+__label__form_request Where is the congratulatory/condolence support application form?
+__label__form_request Please give me the vehicle log form.
+__label__form_request I need the new employee ID card issuance application form.
+__label__form_request Please send me the business trip report form.
+__label__form_request Where is the company club support fund application form?
+__label__form_request Please give me the leave of absence application form.
+__label__form_request I need a new product development plan template.
+__label__form_request Where can I get the corporate card usage report form?
+__label__form_request Please send me the security pledge form.
+__label__form_request I need the recruitment-related document forms.
+__label__form_request Where is the parking registration application form?
+__label__form_request Please give me the document submission confirmation form.
+__label__form_request I need the equipment rental application form.
+__label__form_request Where is the company network access application form?
+__label__form_request Please give me the work material sharing consent form.
+__label__form_request I need the personal information collection consent form.
+__label__form_request Where is the team dinner expense application form?
+__label__form_request Please give me the new vendor registration application form.
+__label__form_request I need the asset management application form.
+__label__form_request Where is the photo submission form?
+__label__form_request Please give me the new employee onboarding checklist form.
+__label__form_request Please send me the contract template.
+__label__form_request Where is the external meeting application form?
+__label__form_request Please give me the department transfer application form.
+__label__form_request I need the resignation application form.
+__label__form_request Where can I get the salary account change application form?
+__label__form_request Please give me the business card production application form.
+__label__form_request Please send me the welfare points usage application form.
+__label__form_request I need the annual leave application form.
+__label__form_request Please give me the company car usage application form.
+__label__form_request I need the project completion report template.
+__label__form_request Where is the new system access application form?
+__label__form_request Please give me the technical document viewing application form.
+__label__form_request I need the development equipment purchase application form.
+__label__form_request Where can I get the external training participation application form?
+__label__form_request Please send me the performance review form.
+__label__form_request Please give me the retirement pension management application form.
+__label__form_request I need the partnership proposal template.
+__label__form_request Where is the internship participation application form?
+__label__form_request Please give me the new hire recommendation form.
+__label__form_request I need the non-disclosure agreement form.
+__label__form_request Where is the external lecture application form?
+__label__form_request Please give me the personal information leakage report form.
+__label__form_request I need the company event participation application form.
+__label__form_request Please give me the company bulletin board usage application form.
+__label__form_request Where is the company extension number change application form?
+__label__form_request I need the company welfare facility usage application form.
+__label__form_request Please send me the project expense settlement form.
+__label__form_request Please give me the company club activity report form.
+__label__form_request Where is the company building access card application form?
+__label__form_request I need the vehicle management application form.
+__label__form_request Please give me the personal item entry application form.
+__label__form_request I need the company shared account usage application form.
+__label__form_request Please send me the attendance/leave record form.
+__label__form_request Please give me the team meeting minutes form.
+__label__form_request Where is the new software implementation application form?
+__label__form_request I need the personal equipment security check application form.
+__label__form_request Please give me the employee referral reward application form.
+__label__org_chart I'm curious about the development team members.
+__label__org_chart Please tell me the marketing team manager's contact information.
+__label__org_chart Who is in the planning team?
+__label__org_chart Can I get the sales department employee list?
+__label__org_chart I want to see the HR team organizational chart.
+__label__org_chart I need the IT team representative's contact information.
+__label__org_chart I want to know which departments the new employees belong to.
+__label__org_chart Can I know the number of people in each department?
+__label__org_chart Which team is Manager Lee Sanghoon in?
+__label__org_chart How many people are in the PR team?
+__label__org_chart I want to know who is in the design team.
+__label__org_chart Who is the sales team manager?
+__label__org_chart Please give me the QA team employee list.
+__label__org_chart Please tell me the accounting team organizational structure.
+__label__org_chart I need the department heads list.
+__label__org_chart Can I see the executive organizational chart?
+__label__org_chart Who is in the new business team?
+__label__org_chart Who is the strategic planning office representative?
+__label__org_chart I want to know the organizational structure by business unit.
+__label__org_chart I need the management department organizational chart.
+__label__org_chart Please tell me the marketing team personnel by position.
+__label__org_chart Who is our team manager in the organizational chart?
+__label__org_chart Please explain the company organizational structure.
+__label__org_chart I want to know the work division by department.
+__label__org_chart I want to check the executive list.
+__label__org_chart Please tell me which departments the new employees are assigned to.
+__label__org_chart Who are the R&D team members?
+__label__org_chart Please give me the corporate research institute organizational chart.
+__label__org_chart I need the contact information of each team manager.
+__label__org_chart I want to know the total number of employees in the company.
+__label__org_chart Where can I see the organizational chart?
+__label__org_chart Please give me the customer support team member contacts.
+__label__org_chart Who is in charge of the product planning team?
+__label__org_chart Please tell me the legal team lawyer's contact information.
+__label__org_chart I'm curious about the audit team organizational structure.
+__label__org_chart I want to check the purchasing team representative.
+__label__org_chart I need the logistics team employee list.
+__label__org_chart Please show me the product development team organizational chart.
+__label__org_chart I want to know the affiliate organizational structure.
+__label__org_chart Who is the new employee mentor?
+__label__org_chart Who are the budget managers for each department?
+__label__org_chart I want to check the organizational chart by branch.
+__label__org_chart Please tell me the new project team members.
+__label__org_chart Please give me the list of managers and above in each department.
+__label__org_chart Which department handles partner companies?
+__label__org_chart Can I see the overseas subsidiary organizational chart?
+__label__org_chart I want to check the TF team members.
+__label__org_chart Please tell me the vice presidents' responsibilities.
+__label__org_chart I want to know the quality management team organizational structure.
+__label__org_chart I need the security team representative's contact information.
+__label__org_chart I want to check the consulting team organizational chart.
+__label__org_chart Who is in charge of the corporate culture team?
+__label__org_chart Please tell me the customer service team organizational structure.
+__label__org_chart I want to know the export team employee contacts.
+__label__org_chart Who is the investment development team manager?
+__label__org_chart Please tell me the new business development team composition.
+__label__org_chart Who is the patent team patent attorney?
+__label__org_chart Please give me the global business division organizational chart.
+__label__org_chart Please give me the business strategy team representative's contact.
+__label__org_chart I want to know who is in the budget planning team.
+__label__org_chart I'm curious about the information security team organizational structure.
+__label__org_chart Who is the assistant manager in the HR team?
+__label__org_chart Can I see the entire company employee list?
+__label__org_chart Has the organizational chart been updated after department transfer?
+__label__org_chart I need the complete organizational chart including affiliates.
+__label__org_chart Is there an integrated employee contact list?
+__label__org_chart I want to check the work division for each team.
+__label__org_chart Please tell me which departments the new hires belong to.
+__label__org_chart Please show me the changed structure after organizational restructuring.
+__label__org_chart Can I see the organizational chart by division separately?
+__label__org_chart I want to know the personnel and composition by team.
+__label__org_chart I want to check the supervisor approval line.
+__label__org_chart Please tell me the inter-departmental collaboration structure.
+__label__org_chart Please show me the organizational chart classified by position.
+__label__org_chart Who is the supervisor for the finance team?
+__label__org_chart Which team handles internal audits?
+__label__org_chart Who manages the IT infrastructure department?
+__label__org_chart Can you show me the R&D team structure?
+__label__org_chart Who is the head of the legal department?
+__label__org_chart Which department is responsible for marketing campaigns?
+__label__org_chart Who oversees the customer service division?
