@@ -249,12 +249,6 @@ class WebSocketClient:
             print(f"\n[DEBUG] 받은 전체 데이터: {data}")  # 디버그용
 
             if isinstance(data, dict):
-                # JSON pong은 카카오워크에서 지원하지 않으므로 제거
-                # pong 응답 처리
-                # if data.get("type") == "pong":
-                #     print(f"[시스템] JSON Pong received at {time.strftime('%H:%M:%S')}")
-                #     return
-
                 # 이벤트 메시지 처리
                 if "event" in data:
                     event_type = data.get("event")
@@ -442,7 +436,6 @@ class WebSocketClient:
                 try:
                     time.sleep(30)  # 30초 대기
                     if self.running and self.ws:
-                        # WebSocket 표준 ping만 사용 (카카오워크에서 지원)
                         self.ws.send("", websocket.ABNF.OPCODE_PING)
                         print(f"\n[시스템] Ping sent at {time.strftime('%H:%M:%S')}")
                 except Exception as e:
@@ -453,7 +446,7 @@ class WebSocketClient:
         self.ping_thread.start()
 
     def send_webhook_message(self, text):
-        """Webhook을 통해 카카오워크에 메시지 전송"""
+        """Webhook을 통해 메시지 전송"""
         if not self.webhook_url:
             return False, "Webhook URL이 설정되지 않았습니다."
 
@@ -504,7 +497,7 @@ class WebSocketClient:
                         self.close()
                         break
                     elif user_input:
-                        # Webhook을 통해 카카오워크에 메시지 전송
+                        # Webhook을 통해 메시지 전송
                         if self.webhook_url:
                             success, message = self.send_webhook_message(user_input)
                             if success:
@@ -603,27 +596,3 @@ class WebSocketClient:
         # os._exit(0) 대신 메인 스레드에서만 종료
 
 
-if __name__ == "__main__":
-    print("=" * 60)
-    print("           WebSocket CLI 클라이언트")
-    print("=" * 60)
-
-    env_path = os.path.join(os.path.dirname(__file__), "..", "..", "..", ".env")
-    load_dotenv(dotenv_path=os.path.abspath(env_path))
-
-    # 카카오워크 봇 설정
-    ws_url = "wss://anchorage.kakaowork.com/socket/bot"
-    BOT_TOKEN = os.getenv("BOT_TOKEN")
-    webhook_url = f"https://kakaowork.com/bots/hook/{BOT_TOKEN}"
-
-    client = WebSocketClient(ws_url, BOT_TOKEN, webhook_url)
-
-    try:
-        print("WebSocket 서버에 연결 중...")
-        client.connect_with_retry()
-    except KeyboardInterrupt:
-        print("\n\n[Ctrl+C] 사용자가 프로그램을 중단했습니다.")
-        client.close()
-    except Exception as e:
-        print(f"\n예상치 못한 오류: {e}")
-        client.close()
