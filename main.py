@@ -191,10 +191,9 @@ if __name__ == "__main__":
     env_path = os.path.join(os.path.dirname(__file__), "..", "..", "..", ".env")
     load_dotenv(dotenv_path=os.path.abspath(env_path))
 
-    # 카카오워크 봇 설정
-    ws_url = "wss://anchorage.kakaowork.com/socket/bot"
+    ws_url = os.getenv("ws_url")
     BOT_TOKEN = os.getenv("BOT_TOKEN")
-    webhook_url = f"https://kakaowork.com/bots/hook/{BOT_TOKEN}"
+    webhook_url = os.getenv("webhook_url")
 
     client = web_socket.WebSocketClient(ws_url, BOT_TOKEN, webhook_url)
     threading.Thread(target=client.connect_with_retry, daemon=True).start()
@@ -206,3 +205,4 @@ if __name__ == "__main__":
     scheduler.start()
 
     uvicorn.run(app, host="0.0.0.0", port=8001)
+
