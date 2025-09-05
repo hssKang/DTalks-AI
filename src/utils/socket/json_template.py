@@ -79,10 +79,6 @@ def url_template(data):
                         }
                     ],
                 },
-                "image": {
-                    "type": "image_link",
-                    "url": "https://t1.kakaocdn.net/kakaowork/resources/block-kit/context/zip@3x.png",
-                },
             }
         ],
     }
@@ -192,3 +188,4 @@ def faq_answer_template(id):
             },
         ],
     }
+
